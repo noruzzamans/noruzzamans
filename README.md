@@ -60,7 +60,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
         <li>📝 <b>Patches Submitted:</b> Multiple</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
+        <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
           <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
         </a>
       </p>
@@ -84,7 +84,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
         <li>🎯 <b>Success Rate:</b> 29%</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
+        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
           <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
         </a>
       </p>
