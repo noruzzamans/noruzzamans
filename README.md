@@ -142,9 +142,11 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
   <a href="https://github.com/noruzzamans">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=noruzzamans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   </a>
+  <!-- Service is currently down
   <a href="https://github.com/noruzzamans">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=noruzzamans&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
+  -->
 </p>
 
 <p align="center">
