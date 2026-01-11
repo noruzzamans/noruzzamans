@@ -1,37 +1,188 @@
-<h1 align="center">Hi 👋, I'm Noruzzaman</h1>
-<h3 align="center">A passionate web developer who is playing with PHP, JavaScript, WordPress and more...</h3> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=21759B&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Noruzzaman;WordPress+Core+Contributor;Gutenberg+Block+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on [BoomDevs](https://boomdevs.com/) 
+<p align="center">
+  <a href="https://profiles.wordpress.org/noruzzaman/"><img src="https://img.shields.io/badge/WordPress-Core_Contributor-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Core Contributor" /></a>
+  <a href="https://github.com/WordPress"><img src="https://img.shields.io/badge/Member-WordPress_Org-21759B?style=flat-square&logo=github&logoColor=white" alt="WordPress Org Member" /></a>
+  <a href="https://github.com/wptide"><img src="https://img.shields.io/badge/Member-WPTide-00ADD8?style=flat-square&logo=github&logoColor=white" alt="WPTide Member" /></a>
+  <a href="https://github.com/boom-devs"><img src="https://img.shields.io/badge/Developer-BoomDevs-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="BoomDevs Developer" /></a>
+</p>
 
-- 🌱 I’m currently learning **Gutenberg Block** 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noruzzamans&label=Profile%20views&color=21759B&style=flat" alt="Profile Views" />
+</p>
 
-- 👨‍💻 All WordPress plugins are available at [https://profiles.wordpress.org/noruzzaman](https://profiles.wordpress.org/noruzzaman/#content-plugins)
+---
 
-- 💬 Ask me about **Your problem and get a well-organized solution** 
+### 👨‍💻 About Me
 
-- 📫 How to reach me **noruzzamanrubel@gmail.com**
+I'm a **WordPress Developer** from Bangladesh, passionate about contributing to WordPress Core and building amazing Gutenberg blocks. Currently working at **[BoomDevs](https://boomdevs.com/)**, I specialize in developing interactive themes, plugins, and custom solutions.
 
-- 
+- 🔭 Currently working on **Gutenberg Blocks & WordPress Core**
+- 🏆 **WordPress Core Contributor** with official props
+- 🌱 Actively contributing to **WordPress 7.0** release
+- 📫 Reach me at: **noruzzamanrubel@gmail.com**
 
-### 🚀 Open Source Contributions
+<p align="center">
+  <a href="https://profiles.wordpress.org/noruzzaman/#content-plugins">
+    <img src="https://img.shields.io/badge/WordPress.org-View_Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org Profile" />
+  </a>
+</p>
+
+---
+
+### 🏆 WordPress Open Source Contributions
+
+<p align="center">
+  <em>Proudly contributing to the world's most popular CMS</em>
+</p>
 
 <!-- STARTS_STATS -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 WordPress Core Trac</h3>
+      <p align="center">
+        <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
+          <img src="https://img.shields.io/badge/Tickets_Participated-11-21759B?style=flat-square" alt="Tickets" />
+        </a>
+        <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
+          <img src="https://img.shields.io/badge/Props_Received-1-success?style=flat-square" alt="Props" />
+        </a>
+        <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
+          <img src="https://img.shields.io/badge/Merged_Tickets-2-blueviolet?style=flat-square" alt="Merged" />
+        </a>
+      </p>
+      <ul>
+        <li>🧪 <b>Test Reports:</b> 9</li>
+        <li>🚀 <b>WP 7.0 Focus:</b> 6 tickets</li>
+        <li>📝 <b>Patches Submitted:</b> Multiple</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
+          <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧱 WordPress Gutenberg</h3>
+      <p align="center">
+        <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
+          <img src="https://img.shields.io/badge/PRs_Involved-9-21759B?style=flat-square" alt="PRs Involved" />
+        </a>
+        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
+          <img src="https://img.shields.io/badge/Props_Received-2-success?style=flat-square" alt="Props" />
+        </a>
+        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
+          <img src="https://img.shields.io/badge/Reviews-1-blueviolet?style=flat-square" alt="Reviews" />
+        </a>
+      </p>
+      <ul>
+        <li>📝 <b>Authored PRs:</b> 2</li>
+        <li>💬 <b>Code Reviews:</b> 7</li>
+        <li>🎯 <b>Success Rate:</b> 29%</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
+          <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 <!-- END_STATS -->
 
-⚡ Fun fact **Teaching**
-  
-### Numbers
-![noruzzamanrubel's Stats](https://github-readme-stats.vercel.app/api?username=noruzzamanrubel&theme=darcula&show_icons=true&hide_border=true&count_private=true) 
+---
 
-![noruzzamanrubel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=noruzzamanrubel&theme=darcula&hide_border=true)
+### 🎯 Contribution Highlights
 
-![noruzzamanrubel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noruzzamanrubel&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/24+-Merged_PRs-success?style=for-the-badge" alt="Merged PRs" /><br/>
+      <sub><b>WordPress Org Repositories</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/6-WP_7.0_Tickets-blueviolet?style=for-the-badge" alt="WP 7.0" /><br/>
+      <sub><b>Upcoming Release Focus</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Bengali-i18n_Translations-21759B?style=for-the-badge" alt="i18n" /><br/>
+      <sub><b>WordPress Playground</b></sub>
+    </td>
+  </tr>
+</table>
 
-### Where to find me
+<details>
+<summary><b>📂 WordPress Org Merged PRs (Click to expand)</b></summary>
+<br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noruzzamanrubel) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/NoruzzamanRube1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/noruzzamanrubel)
+| Repository | Contributions |
+|------------|---------------|
+| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) | Bengali translations for docs & contributor guides |
+| [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) | Documentation cleanup |
+| [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker) | Bug fixes & documentation improvements |
+| [WordPress/test-handbook](https://github.com/WordPress/test-handbook) | Documentation updates |
+| [WordPress/abilities-api](https://github.com/WordPress/abilities-api) | Hook name fixes & documentation |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">
+    <img src="https://img.shields.io/badge/View_All_Merged_PRs-→-21759B?style=for-the-badge" alt="View All PRs" />
+  </a>
+</p>
+
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noruzzamans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noruzzamans&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noruzzamans&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://profiles.wordpress.org/noruzzaman/">
+    <img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org" />
+  </a>
+  <a href="https://www.linkedin.com/in/noruzzamanrubel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/NoruzzamanRube1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://facebook.com/noruzzamanrubel">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=21759B&height=100&section=footer" width="100%" />
+</p>
