@@ -1,0 +1,83 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Runs at 1 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch Stats
+        run: |
+          curl -s https://raw.githubusercontent.com/noruzzamans/wp-core-trac-contributions/main/stats.json > trac-stats.json
+          curl -s https://raw.githubusercontent.com/noruzzamans/wp-gutenberg-contributions/main/stats.json > gutenberg-stats.json
+
+      - name: Update README
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // Read stats safely
+            let trac, guten;
+            try {
+              trac = JSON.parse(fs.readFileSync('trac-stats.json', 'utf8'));
+              guten = JSON.parse(fs.readFileSync('gutenberg-stats.json', 'utf8'));
+            } catch (e) {
+              console.log('Error reading stats:', e);
+              return;
+            }
+            
+            const readmePath = 'README.md';
+            if (!fs.existsSync(readmePath)) return;
+            
+            let readme = fs.readFileSync(readmePath, 'utf8');
+            
+            // Generate HTML Table
+            const statsHtml = `
+            <table width="100%">
+              <tr>
+                <td width="50%" valign="top">
+                  <h3>WordPress Core Trac</h3>
+                  <ul>
+                    <li><b>Total Tickets</b>: ${trac.total}</li>
+                    <li>✅ <b>Props Received</b>: ${trac.props}</li>
+                    <li>🚀 <b>WP 7.0 Focus</b>: ${trac.release_7_0}</li>
+                    <li><a href="https://github.com/noruzzamans/wp-core-trac-contributions">View Details &raquo;</a></li>
+                  </ul>
+                </td>
+                <td width="50%" valign="top">
+                  <h3>WordPress Gutenberg</h3>
+                  <ul>
+                    <li><b>Total PRs Involved</b>: ${guten.total_involved}</li>
+                    <li>✅ <b>Props Received</b>: ${guten.with_props}</li>
+                    <li>🎉 <b>Merged PRs</b>: ${guten.my_authored_merged + guten.merged_no_props}</li>
+                    <li><a href="https://github.com/noruzzamans/wp-gutenberg-contributions">View Details &raquo;</a></li>
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            `;
+            
+            // Replace content between markers
+            const startMarker = '<!-- STARTS_STATS -->';
+            const endMarker = '<!-- END_STATS -->';
+            
+            const startIndex = readme.indexOf(startMarker);
+            const endIndex = readme.indexOf(endMarker);
+            
+            if (startIndex !== -1 && endIndex !== -1) {
+              const newContent = readme.substring(0, startIndex + startMarker.length) + 
+                                 '\n' + statsHtml + '\n' + 
+                                 readme.substring(endIndex);
+              fs.writeFileSync(readmePath, newContent);
+              console.log('✅ Updated existing stats table in README');
+            } else {
+                 console.log('⚠️ Markers missing, cannot update stats yet.');
+            }

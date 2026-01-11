@@ -11,7 +11,14 @@
 
 - 📫 How to reach me **noruzzamanrubel@gmail.com**
 
-- ⚡ Fun fact **Teaching**
+- 
+
+### 🚀 Open Source Contributions
+
+<!-- STARTS_STATS -->
+<!-- END_STATS -->
+
+⚡ Fun fact **Teaching**
   
 ### Numbers
 ![noruzzamanrubel's Stats](https://github-readme-stats.vercel.app/api?username=noruzzamanrubel&theme=darcula&show_icons=true&hide_border=true&count_private=true) 
