@@ -47,10 +47,10 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
         <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
           <img src="https://img.shields.io/badge/Tickets_Participated-11-21759B?style=flat-square" alt="Tickets" />
         </a>
-        <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
+        <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-1-success?style=flat-square" alt="Props" />
         </a>
-        <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
+        <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/merged/tickets.md">
           <img src="https://img.shields.io/badge/Merged_Tickets-2-blueviolet?style=flat-square" alt="Merged" />
         </a>
       </p>
@@ -60,7 +60,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
         <li>📝 <b>Patches Submitted:</b> Multiple</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
+        <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
         </a>
       </p>
@@ -71,10 +71,10 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
         <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
           <img src="https://img.shields.io/badge/PRs_Involved-9-21759B?style=flat-square" alt="PRs Involved" />
         </a>
-        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
+        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-2-success?style=flat-square" alt="Props" />
         </a>
-        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
+        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/reviews.md">
           <img src="https://img.shields.io/badge/Reviews-1-blueviolet?style=flat-square" alt="Reviews" />
         </a>
       </p>
@@ -84,7 +84,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
         <li>🎯 <b>Success Rate:</b> 29%</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
+        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
         </a>
       </p>
