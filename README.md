@@ -100,31 +100,37 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/24+-Merged_PRs-success?style=for-the-badge" alt="Merged PRs" /><br/>
+      <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">
+        <img src="https://img.shields.io/badge/24+-Merged_PRs-success?style=for-the-badge" alt="Merged PRs" />
+      </a><br/>
       <sub><b>WordPress Org Repositories</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/6-WP_7.0_Tickets-blueviolet?style=for-the-badge" alt="WP 7.0" /><br/>
+      <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/7.0-release/tickets.md">
+        <img src="https://img.shields.io/badge/6-WP_7.0_Tickets-blueviolet?style=for-the-badge" alt="WP 7.0" />
+      </a><br/>
       <sub><b>Upcoming Release Focus</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Bengali-i18n_Translations-21759B?style=for-the-badge" alt="i18n" /><br/>
+      <a href="https://github.com/WordPress/wordpress-playground/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged">
+        <img src="https://img.shields.io/badge/Bengali-i18n_Translations-21759B?style=for-the-badge" alt="i18n" />
+      </a><br/>
       <sub><b>WordPress Playground</b></sub>
     </td>
   </tr>
 </table>
 
-<details>
-<summary><b>📂 WordPress Org Merged PRs (Click to expand)</b></summary>
+<details open>
+<summary><b>📂 WordPress Org Merged PRs</b></summary>
 <br/>
 
-| Repository | Contributions |
-|------------|---------------|
-| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) | Bengali translations for docs & contributor guides |
-| [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) | Documentation cleanup |
-| [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker) | Bug fixes & documentation improvements |
-| [WordPress/test-handbook](https://github.com/WordPress/test-handbook) | Documentation updates |
-| [WordPress/abilities-api](https://github.com/WordPress/abilities-api) | Hook name fixes & documentation |
+| Repository | PRs | Contributions |
+|------------|:---:|---------------|
+| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) | 15+ | Bengali translations for docs & contributor guides |
+| [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) | 3 | Documentation cleanup |
+| [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker) | 2 | Bug fixes & documentation improvements |
+| [WordPress/test-handbook](https://github.com/WordPress/test-handbook) | 2 | Documentation updates |
+| [WordPress/abilities-api](https://github.com/WordPress/abilities-api) | 2 | Hook name fixes & documentation |
 
 <p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">
