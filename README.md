@@ -139,12 +139,18 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noruzzamans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noruzzamans&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/noruzzamans">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=noruzzamans&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/noruzzamans">
+    <img src="https://streak-stats.demolab.com/?user=noruzzamans&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noruzzamans&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
+  <a href="https://github.com/noruzzamans">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noruzzamans&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="40%" />
+  </a>
 </p>
 
 ---
@@ -170,13 +176,13 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
   <a href="https://profiles.wordpress.org/noruzzaman/">
     <img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org" />
   </a>
-  <a href="https://www.linkedin.com/in/noruzzamanrubel">
+  <a href="https://www.linkedin.com/in/noruzzaman/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/NoruzzamanRube1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/NoruzzamanRube1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://facebook.com/noruzzamanrubel">
+  <a href="https://www.facebook.com/noruzzamanrubel">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
