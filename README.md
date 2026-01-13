@@ -46,15 +46,15 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
       <h3 align="center">📋 WordPress Core Trac</h3>
       <p align="center">
         <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
-          <img src="https://img.shields.io/badge/Tickets_Participated-11-21759B?style=flat-square" alt="Tickets" />
+          <img src="https://img.shields.io/badge/Tickets_Participated-12-21759B?style=flat-square" alt="Tickets" />
         </a>
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-1-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
-        <li>🧪 <b>Test Reports:</b> 11</li>
-        <li>🚀 <b>WP 7.0 Focus:</b> 6 tickets</li>
+        <li>🧪 <b>Test Reports:</b> 12</li>
+        <li>🚀 <b>WP 7.0 Focus:</b> 7 tickets</li>
       </ul>
       <p align="center">
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
@@ -102,7 +102,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/7.0-release/tickets.md">
-        <img src="https://img.shields.io/badge/6-WP_7.0_Tickets-blueviolet?style=for-the-badge" alt="WP 7.0" />
+        <img src="https://img.shields.io/badge/7-WP_7.0_Tickets-blueviolet?style=for-the-badge" alt="WP 7.0" />
       </a><br/>
       <sub><b>Upcoming Release Focus</b></sub>
     </td>
