@@ -2,7 +2,7 @@ name: Update Profile Stats
 
 on:
   schedule:
-    - cron: '0 1 * * *' # Runs at 1 AM UTC
+    - cron: '0 19 * * *' # Runs at 1 AM Bangladesh Time (UTC+6)
   workflow_dispatch:
 
 jobs:
