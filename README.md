@@ -39,6 +39,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 </p>
 
 <!-- STARTS_STATS -->
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -50,14 +51,10 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-1-success?style=flat-square" alt="Props" />
         </a>
-        <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/merged/tickets.md">
-          <img src="https://img.shields.io/badge/Merged_Tickets-2-blueviolet?style=flat-square" alt="Merged" />
-        </a>
       </p>
       <ul>
-        <li>🧪 <b>Test Reports:</b> 9</li>
+        <li>🧪 <b>Test Reports:</b> 11</li>
         <li>🚀 <b>WP 7.0 Focus:</b> 6 tickets</li>
-        <li>📝 <b>Patches Submitted:</b> Multiple</li>
       </ul>
       <p align="center">
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
@@ -69,17 +66,14 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
       <h3 align="center">🧱 WordPress Gutenberg</h3>
       <p align="center">
         <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
-          <img src="https://img.shields.io/badge/PRs_Involved-9-21759B?style=flat-square" alt="PRs Involved" />
+          <img src="https://img.shields.io/badge/PRs_Involved-7-21759B?style=flat-square" alt="PRs Involved" />
         </a>
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-2-success?style=flat-square" alt="Props" />
         </a>
-        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/reviews.md">
-          <img src="https://img.shields.io/badge/Reviews-1-blueviolet?style=flat-square" alt="Reviews" />
-        </a>
       </p>
       <ul>
-        <li>📝 <b>Authored PRs:</b> 2</li>
+        <li>📝 <b>Authored PRs:</b> 0</li>
         <li>💬 <b>Code Reviews:</b> 7</li>
       </ul>
       <p align="center">
@@ -97,6 +91,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 ### 🎯 Contribution Highlights
 
 <!-- START_HIGHLIGHTS -->
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -126,14 +121,16 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 <br/>
 
 <!-- START_MERGED_PRS -->
-| Repository | PRs | Contributions |
+| Repository | PRs | Recent Contributions |
 |------------|:---:|---------------|
-| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) | 15+ | Bengali translations for docs & contributor guides |
-| [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) | 3 | Documentation cleanup |
-| [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker) | 2 | Bug fixes & documentation improvements |
-| [WordPress/test-handbook](https://github.com/WordPress/test-handbook) | 2 | Documentation updates |
-| [WordPress/abilities-api](https://github.com/WordPress/abilities-api) | 2 | Hook name fixes & documentation |
+| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) | 7 | [i18n] Add Bengali translation for translations.md, [i18n] Add Bengali translation for contributor-day.md, [i18n] Docs: Add Bengali translation for contributor-day-table-lead.md... |
+| [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook) | 2 | Remove outdated live.md file, docs(handbook): correct spelling on Monthly Hosting Team Updates page... |
+| [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker) | 4 | Fix escaped exclamation marks, Documentation improvements: Fix formatting and complete onboarding sections, Reviewed the site and fixed minor spelling issues.... |
+| [WordPress/test-handbook](https://github.com/WordPress/test-handbook) | 4 | Update usability testing handbook links in Gutenberg testing docs, Docs: fix Playground spelling in test core tickets guide, Docs: Fix typo in documenting-flow.md (“Treshold” → “Threshold”)... |
+| [WordPress/abilities-api](https://github.com/WordPress/abilities-api) | 1 | Docs: fix hook name — use `wp_abilities_api_categories_init` instead of `abilities_api_categories_init`... |
+| [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive) | 2 | All patterns that are not hidden needs a description #290, All patterns that are not hidden needs a description #290... |
 
+<p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">
     <img src="https://img.shields.io/badge/View_All_Merged_PRs-→-21759B?style=for-the-badge" alt="View All PRs" />
   </a>
