@@ -81,7 +81,6 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
       <ul>
         <li>📝 <b>Authored PRs:</b> 2</li>
         <li>💬 <b>Code Reviews:</b> 7</li>
-        <li>🎯 <b>Success Rate:</b> 29%</li>
       </ul>
       <p align="center">
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
@@ -97,6 +96,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 
 ### 🎯 Contribution Highlights
 
+<!-- START_HIGHLIGHTS -->
 <table>
   <tr>
     <td align="center" width="33%">
@@ -119,11 +119,13 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
     </td>
   </tr>
 </table>
+<!-- END_HIGHLIGHTS -->
 
 <details open>
 <summary><b>📂 WordPress Org Merged PRs</b></summary>
 <br/>
 
+<!-- START_MERGED_PRS -->
 | Repository | PRs | Contributions |
 |------------|:---:|---------------|
 | [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) | 15+ | Bengali translations for docs & contributor guides |
@@ -132,11 +134,11 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 | [WordPress/test-handbook](https://github.com/WordPress/test-handbook) | 2 | Documentation updates |
 | [WordPress/abilities-api](https://github.com/WordPress/abilities-api) | 2 | Hook name fixes & documentation |
 
-<p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">
     <img src="https://img.shields.io/badge/View_All_Merged_PRs-→-21759B?style=for-the-badge" alt="View All PRs" />
   </a>
 </p>
+<!-- END_MERGED_PRS -->
 
 </details>
 
@@ -189,9 +191,6 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
   </a>
   <a href="https://x.com/NoruzzamanRube1">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.facebook.com/noruzzamanrubel">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
