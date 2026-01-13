@@ -38,7 +38,7 @@ jobs:
 
               // 2. Fetch Merged PRs from WordPress Org using GitHub API
               const q = 'is:pr author:noruzzamans org:WordPress is:merged';
-              const searchResult = await github.rest.search.issuesAndPullRequests({ q, per_page: 20 });
+              const searchResult = await github.rest.search.issuesAndPullRequests({ q, per_page: 100 });
               const totalMergedPRs = searchResult.data.total_count;
               const mergedPRs = searchResult.data.items;
 
@@ -120,17 +120,21 @@ jobs:
               // --- Section 3: Merged PRs list ---
               const repos = {};
               mergedPRs.forEach(pr => {
-                const repoName = pr.repository_url.split('/').pop();
-                const repoUrl = pr.repository_url.replace('https://api.github.com/repos/', 'https://github.com/');
+                const parts = pr.repository_url.split('/');
+                const repoName = parts[parts.length - 1];
+                const repoUrl = `https://github.com/WordPress/${repoName}`;
                 if (!repos[repoName]) repos[repoName] = { url: repoUrl, count: 0, titles: [] };
                 repos[repoName].count++;
-                if (repos[repoName].titles.length < 3) repos[repoName].titles.push(pr.title);
+                if (repos[repoName].titles.length < 3) {
+                   const cleanTitle = pr.title.replace(/\|/g, '\\|').replace(/[<>]/g, '');
+                   repos[repoName].titles.push(cleanTitle);
+                }
               });
 
               let prTable = '| Repository | PRs | Recent Contributions |\n|------------|:---:|---------------|\n';
-              Object.keys(repos).forEach(name => {
+              Object.keys(repos).sort((a,b) => repos[b].count - repos[a].count).forEach(name => {
                 const repo = repos[name];
-                prTable += `| [WordPress/${name}](${repo.url}) | ${repo.count} | ${repo.titles.join(', ').replace(/\|/g, '\\|')}... |\n`;
+                prTable += `| [WordPress/${name}](${repo.url}) | ${repo.count} | ${repo.titles.join(', ')}... |\n`;
               });
               
               prTable += `\n<p align="center">\n  <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">\n    <img src="https://img.shields.io/badge/View_All_Merged_PRs-→-21759B?style=for-the-badge" alt="View All PRs" />\n  </a>\n</p>`;
