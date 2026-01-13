@@ -122,7 +122,7 @@ jobs:
               mergedPRs.forEach(pr => {
                 const parts = pr.repository_url.split('/');
                 const repoName = parts[parts.length - 1];
-                const repoUrl = `https://github.com/WordPress/${repoName}`;
+                const repoUrl = `https://github.com/WordPress/${repoName}/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged`;
                 if (!repos[repoName]) repos[repoName] = { url: repoUrl, count: 0, titles: [] };
                 repos[repoName].count++;
                 if (repos[repoName].titles.length < 3) {
