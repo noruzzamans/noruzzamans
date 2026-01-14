@@ -24,12 +24,6 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 - 🌱 Actively contributing to **WordPress 7.0** release
 - 📫 Reach me at: **noruzzamanrubel@gmail.com**
 
-<p align="center">
-  <a href="https://profiles.wordpress.org/noruzzaman/#content-plugins">
-    <img src="https://img.shields.io/badge/WordPress.org-View_Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org Profile" />
-  </a>
-</p>
-
 ---
 
 ### 🌟 Featured Project
