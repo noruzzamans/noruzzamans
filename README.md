@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://profiles.wordpress.org/noruzzaman/"><img src="https://img.shields.io/badge/WordPress-Core_Contributor-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Core Contributor" /></a>
-  <a href="https://github.com/pulls?q=involves:noruzzamans+org:WordPress"><img src="https://img.shields.io/badge/Member-WordPress_Org-21759B?style=for-the-badge&logo=github&logoColor=white" alt="WordPress Org Member" /></a>
+  <a href="https://github.com/search?q=org%3AWordPress+involves%3Anoruzzamans&type=pullrequests"><img src="https://img.shields.io/badge/Member-WordPress_Org-21759B?style=for-the-badge&logo=github&logoColor=white" alt="WordPress Org Member" /></a>
 </p>
 
 ---
@@ -115,7 +115,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/pulls?q=involves:noruzzamans+org:WordPress">
+      <a href="https://github.com/search?q=org%3AWordPress+involves%3Anoruzzamans&type=pullrequests">
         <img src="https://img.shields.io/badge/24+-Involvement-success?style=for-the-badge" alt="Involvement" />
       </a><br/>
       <sub><b>WordPress Org Repositories</b></sub>
