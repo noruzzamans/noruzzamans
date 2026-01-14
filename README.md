@@ -93,8 +93,8 @@ I actively maintain several popular plugins on the WordPress.org repository:
         </a>
       </p>
       <ul>
-        <li>🧪 <b>Test Reports:</b> 12</li>
-        <li>🚀 <b>WP 7.0 Focus:</b> 7 tickets</li>
+        <li>🛠️ <b>PRs Involved:</b> 7</li>
+        <li>� <b>Code Reviews:</b> 7</li>
       </ul>
       <p align="center">
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
