@@ -80,7 +80,7 @@ jobs:
                     </a>
                   </p>
                   <ul>
-                    <li>📝 <b>Authored PRs:</b> ${guten.my_authored_merged}</li>
+                    <li>🛠️ <b>PRs Involved:</b> ${guten.total_involved}</li>
                     <li>💬 <b>Code Reviews:</b> ${guten.total_involved - guten.my_authored_merged}</li>
                   </ul>
                   <p align="center">
@@ -97,8 +97,8 @@ jobs:
             <table>
               <tr>
                 <td align="center" width="33%">
-                  <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">
-                    <img src="https://img.shields.io/badge/${totalMergedPRs}+-Merged_PRs-success?style=for-the-badge" alt="Merged PRs" />
+                  <a href="https://github.com/pulls?q=involves:noruzzamans+org:WordPress">
+                    <img src="https://img.shields.io/badge/${totalMergedPRs}+-Involvement-success?style=for-the-badge" alt="Involvement" />
                   </a><br/>
                   <sub><b>WordPress Org Repositories</b></sub>
                 </td>
