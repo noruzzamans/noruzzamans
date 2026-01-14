@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://profiles.wordpress.org/noruzzaman/"><img src="https://img.shields.io/badge/WordPress-Core_Contributor-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Core Contributor" /></a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged"><img src="https://img.shields.io/badge/Member-WordPress_Org-21759B?style=for-the-badge&logo=github&logoColor=white" alt="WordPress Org Member" /></a>
+  <a href="https://github.com/pulls?q=involves:noruzzamans+org:WordPress"><img src="https://img.shields.io/badge/Member-WordPress_Org-21759B?style=for-the-badge&logo=github&logoColor=white" alt="WordPress Org Member" /></a>
 </p>
 
 ---
