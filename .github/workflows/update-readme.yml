@@ -148,12 +148,17 @@ jobs:
                 }
               };
 
+              const oldReadme = fs.readFileSync(readmePath, 'utf8');
               updateSection('<!-- STARTS_STATS -->', '<!-- END_STATS -->', statsHtml);
               updateSection('<!-- START_HIGHLIGHTS -->', '<!-- END_HIGHLIGHTS -->', highlightsHtml);
               updateSection('<!-- START_MERGED_PRS -->', '<!-- END_MERGED_PRS -->', prTable);
 
-              fs.writeFileSync(readmePath, readme);
-              console.log('✅ README updated with latest stats and PRs');
+              if (oldReadme !== readme) {
+                fs.writeFileSync(readmePath, readme);
+                console.log('✅ README updated with latest stats and PRs');
+              } else {
+                console.log('⏭️ No changes detected in the README. Skipping write.');
+              }
             }
 
             run();
