@@ -32,6 +32,38 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 
 ---
 
+### 🌟 Featured Project
+
+#### [GSlider Blocks](https://wordpress.org/plugins/gslider-blocks/)
+
+> The Ultimate Gutenberg Carousel Collection. 10+ Blocks including Logo, Image, video & Testimonial carousels.
+
+- **Active Installs:** 700+
+- **Rating:** ⭐⭐⭐⭐⭐ (5/5)
+- **Downloads:** 4,500+
+
+---
+
+### 🔌 Top WordPress Plugins
+
+I actively maintain several popular plugins on the WordPress.org repository:
+
+| Plugin | Active Installs | Rating |
+| :--- | :--- | :--- |
+| [Current Date Shortcode](https://wordpress.org/plugins/current-date/) | 3,000+ | ⭐⭐⭐⭐⭐ |
+| [Autocomplete Order Status](https://wordpress.org/plugins/autocomplete-wc-order-status/) | 2,000+ | ⭐⭐⭐⭐⭐ |
+| [Copy to Clipboard](https://wordpress.org/plugins/copy-to-clipboard-for-wp/) | 2,000+ | ⭐⭐⭐⭐☆ |
+| [Quick Checkout for WC](https://wordpress.org/plugins/quick-checkout-for-woocommerce/) | 2,000+ | ⭐⭐⭐⭐⭐ |
+| [Geomap - Google Map Block](https://wordpress.org/plugins/geomap-block/) | 1,000+ | ⭐⭐⭐⭐⭐ |
+
+<p align="center">
+  <a href="https://profiles.wordpress.org/noruzzaman/#content-plugins">
+    <b>View All Plugins on WordPress.org »</b>
+  </a>
+</p>
+
+---
+
 ### 🏆 WordPress Open Source Contributions
 
 <p align="center">
