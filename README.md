@@ -93,8 +93,8 @@ I actively maintain several popular plugins on the WordPress.org repository:
         </a>
       </p>
       <ul>
-        <li>📝 <b>Authored PRs:</b> 0</li>
-        <li>💬 <b>Code Reviews:</b> 7</li>
+        <li>🧪 <b>Test Reports:</b> 12</li>
+        <li>🚀 <b>WP 7.0 Focus:</b> 7 tickets</li>
       </ul>
       <p align="center">
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
@@ -214,5 +214,5 @@ I actively maintain several popular plugins on the WordPress.org repository:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=21759B&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=21759B&height=60&section=footer" width="100%" />
 </p>
