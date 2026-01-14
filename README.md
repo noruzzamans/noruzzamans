@@ -94,7 +94,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
       </p>
       <ul>
         <li>🛠️ <b>PRs Involved:</b> 7</li>
-        <li>� <b>Code Reviews:</b> 7</li>
+        <li>💬 <b>Code Reviews:</b> 7</li>
       </ul>
       <p align="center">
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
@@ -115,8 +115,8 @@ I actively maintain several popular plugins on the WordPress.org repository:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">
-        <img src="https://img.shields.io/badge/24+-Merged_PRs-success?style=for-the-badge" alt="Merged PRs" />
+      <a href="https://github.com/pulls?q=involves:noruzzamans+org:WordPress">
+        <img src="https://img.shields.io/badge/24+-Involvement-success?style=for-the-badge" alt="Involvement" />
       </a><br/>
       <sub><b>WordPress Org Repositories</b></sub>
     </td>
