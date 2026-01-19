@@ -116,7 +116,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/search?q=org%3AWordPress+involves%3Anoruzzamans&type=pullrequests">
-        <img src="https://img.shields.io/badge/24+-Involvement-success?style=for-the-badge" alt="Involvement" />
+        <img src="https://img.shields.io/badge/25+-Involvement-success?style=for-the-badge" alt="Involvement" />
       </a><br/>
       <sub><b>WordPress Org Repositories</b></sub>
     </td>
@@ -145,7 +145,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
 |------------|:---:|---------------|
 | [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 7 | [i18n] Add Bengali translation for translations.md, [i18n] Add Bengali translation for contributor-day.md, [i18n] Docs: Add Bengali translation for contributor-day-table-lead.md... |
 | [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 6 | All patterns that are not hidden needs a description #290, All patterns that are not hidden needs a description #290, Add "Page with no title" template #272... |
-| [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 4 | Fix escaped exclamation marks, Documentation improvements: Fix formatting and complete onboarding sections, Reviewed the site and fixed minor spelling issues.... |
+| [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 5 | Docs: Fix grammar errors, typos, and broken markdown link, Fix escaped exclamation marks, Documentation improvements: Fix formatting and complete onboarding sections... |
 | [WordPress/test-handbook](https://github.com/WordPress/test-handbook/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 4 | Update usability testing handbook links in Gutenberg testing docs, Docs: fix Playground spelling in test core tickets guide, Docs: Fix typo in documenting-flow.md (“Treshold” → “Threshold”)... |
 | [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 2 | Remove outdated live.md file, docs(handbook): correct spelling on Monthly Hosting Team Updates page... |
 | [WordPress/abilities-api](https://github.com/WordPress/abilities-api/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 1 | Docs: fix hook name — use `wp_abilities_api_categories_init` instead of `abilities_api_categories_init`... |
