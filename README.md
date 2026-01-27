@@ -116,7 +116,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/search?q=org%3AWordPress+involves%3Anoruzzamans&type=pullrequests">
-        <img src="https://img.shields.io/badge/31+-Involvement-success?style=for-the-badge" alt="Involvement" />
+        <img src="https://img.shields.io/badge/32+-Involvement-success?style=for-the-badge" alt="Involvement" />
       </a><br/>
       <sub><b>WordPress Org Repositories</b></sub>
     </td>
@@ -148,6 +148,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
 | [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 5 | Docs: Fix grammar errors, typos, and broken markdown link, Fix escaped exclamation marks, Documentation improvements: Fix formatting and complete onboarding sections... |
 | [WordPress/test-handbook](https://github.com/WordPress/test-handbook/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 4 | Update usability testing handbook links in Gutenberg testing docs, Docs: fix Playground spelling in test core tickets guide, Docs: Fix typo in documenting-flow.md (“Treshold” → “Threshold”)... |
 | [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 2 | Remove outdated live.md file, docs(handbook): correct spelling on Monthly Hosting Team Updates page... |
+| [WordPress/gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 1 | Added Missing Global Documentation class-wp-rest-block-editor-settings-controller file... |
 | [WordPress/abilities-api](https://github.com/WordPress/abilities-api/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 1 | Docs: fix hook name — use `wp_abilities_api_categories_init` instead of `abilities_api_categories_init`... |
 
 <p align="center">
