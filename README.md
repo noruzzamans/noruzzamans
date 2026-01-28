@@ -86,15 +86,15 @@ I actively maintain several popular plugins on the WordPress.org repository:
       <h3 align="center">🧱 WordPress Gutenberg</h3>
       <p align="center">
         <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
-          <img src="https://img.shields.io/badge/PRs_Involved-8-21759B?style=flat-square" alt="PRs Involved" />
+          <img src="https://img.shields.io/badge/PRs_Involved-9-21759B?style=flat-square" alt="PRs Involved" />
         </a>
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-3-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
-        <li>🛠️ <b>PRs Involved:</b> 8</li>
-        <li>💬 <b>Code Reviews:</b> 7</li>
+        <li>🛠️ <b>PRs Involved:</b> 9</li>
+        <li>💬 <b>Code Reviews:</b> 8</li>
       </ul>
       <p align="center">
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
