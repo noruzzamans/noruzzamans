@@ -86,14 +86,14 @@ I actively maintain several popular plugins on the WordPress.org repository:
       <h3 align="center">🧱 WordPress Gutenberg</h3>
       <p align="center">
         <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
-          <img src="https://img.shields.io/badge/PRs_Involved-7-21759B?style=flat-square" alt="PRs Involved" />
+          <img src="https://img.shields.io/badge/PRs_Involved-8-21759B?style=flat-square" alt="PRs Involved" />
         </a>
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
-          <img src="https://img.shields.io/badge/Props_Received-2-success?style=flat-square" alt="Props" />
+          <img src="https://img.shields.io/badge/Props_Received-3-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
-        <li>🛠️ <b>PRs Involved:</b> 7</li>
+        <li>🛠️ <b>PRs Involved:</b> 8</li>
         <li>💬 <b>Code Reviews:</b> 7</li>
       </ul>
       <p align="center">
@@ -116,7 +116,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/search?q=org%3AWordPress+involves%3Anoruzzamans&type=pullrequests">
-        <img src="https://img.shields.io/badge/32+-Involvement-success?style=for-the-badge" alt="Involvement" />
+        <img src="https://img.shields.io/badge/34+-Involvement-success?style=for-the-badge" alt="Involvement" />
       </a><br/>
       <sub><b>WordPress Org Repositories</b></sub>
     </td>
@@ -143,7 +143,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
 <!-- START_MERGED_PRS -->
 | Repository | PRs | Recent Contributions |
 |------------|:---:|---------------|
-| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 13 | [i18n] Add Bengali translation for quick-start-guide.md, [i18n] Add Bengali translation for intro.md, [i18n] Add Bengali translation for about/launch.md... |
+| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 15 | [i18n] Add Bengali translation for web-instance.md, [i18n] Add Bengali translation for resources.md, [i18n] Add Bengali translation for quick-start-guide.md... |
 | [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 6 | All patterns that are not hidden needs a description #290, All patterns that are not hidden needs a description #290, Add "Page with no title" template #272... |
 | [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 5 | Docs: Fix grammar errors, typos, and broken markdown link, Fix escaped exclamation marks, Documentation improvements: Fix formatting and complete onboarding sections... |
 | [WordPress/test-handbook](https://github.com/WordPress/test-handbook/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 4 | Update usability testing handbook links in Gutenberg testing docs, Docs: fix Playground spelling in test core tickets guide, Docs: Fix typo in documenting-flow.md (“Treshold” → “Threshold”)... |
