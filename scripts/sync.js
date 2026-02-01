@@ -20,15 +20,25 @@ const PLUGINS = [
 
 async function fetchPluginData(slug) {
     try {
-        const response = await fetch(`https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&request[slug]=${slug}`);
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-        const data = await response.json();
+        // Fetch primary data from 1.2 API
+        const response12 = await fetch(`https://api.wordpress.org/plugins/info/1.2/?action=plugin_information&request[slug]=${slug}`);
+        if (!response12.ok) throw new Error(`HTTP 1.2 error! status: ${response12.status}`);
+        const data12 = await response12.json();
+
+        // Fetch download count from 1.0 API (since 1.2 lacks it)
+        const response10 = await fetch(`https://api.wordpress.org/plugins/info/1.0/${slug}.json`);
+        let downloaded = 0;
+        if (response10.ok) {
+            const data10 = await response10.json();
+            downloaded = data10.downloaded || 0;
+        }
+
         return {
             slug,
-            active_installs: data.active_installs,
-            rating: data.rating,
-            downloaded: data.downloaded,
-            num_ratings: data.num_ratings
+            active_installs: data12.active_installs,
+            rating: data12.rating,
+            downloaded: downloaded,
+            num_ratings: data12.num_ratings
         };
     } catch (error) {
         console.error(`❌ Error fetching data for ${slug}:`, error.message);
@@ -169,6 +179,9 @@ async function updateReadme() {
     // 4. Update Plugin Stats from WordPress.org API
     console.log('🔌 Fetching and updating WordPress plugin stats...');
     for (const plugin of PLUGINS) {
+        // Add a small delay between requests to avoid 429 rate limiting
+        await new Promise(resolve => setTimeout(resolve, 500));
+        
         const data = await fetchPluginData(plugin.slug);
         if (!data) continue;
 

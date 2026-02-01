@@ -28,7 +28,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 
 - **Active Installs:** 700+
 - **Rating:** ⭐⭐⭐⭐⭐ (5/5)
-- **Downloads:** 4,500+
+- **Downloads:** 4,998+
 
 ---
 
@@ -73,7 +73,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
         </a>
       </p>
       <ul>
-        <li>🧪 <b>Test Reports:</b> 16</li>
+        <li>🧪 <b>Test Reports:</b> 12</li>
         <li>🚀 <b>WP 7.0 Focus:</b> 8 tickets</li>
       </ul>
       <p align="center">
@@ -147,7 +147,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
 | [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 6 | All patterns that are not hidden needs a description #290, All patterns that are not hidden needs a description #290, Add "Page with no title" template #272... |
 | [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 5 | Docs: Fix grammar errors, typos, and broken markdown link, Fix escaped exclamation marks, Documentation improvements: Fix formatting and complete onboarding sections... |
 | [WordPress/test-handbook](https://github.com/WordPress/test-handbook/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 4 | Update usability testing handbook links in Gutenberg testing docs, Docs: fix Playground spelling in test core tickets guide, Docs: Fix typo in documenting-flow.md (“Treshold” → “Threshold”)... |
-| [WordPress/gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 2 | Docs: Add missing @global documentation in rtl.php and meta-box.php, Added Missing Global Documentation class-wp-rest-block-editor-settings-controller file... |
+| [WordPress/gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 2 | Docs: Add missing @global documentation in rtl.php and meta-box.php #75082, Added Missing Global Documentation class-wp-rest-block-editor-settings-controller file #74973... |
 | [WordPress/hosting-handbook](https://github.com/WordPress/hosting-handbook/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 2 | Remove outdated live.md file, docs(handbook): correct spelling on Monthly Hosting Team Updates page... |
 | [WordPress/abilities-api](https://github.com/WordPress/abilities-api/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 1 | Docs: fix hook name — use `wp_abilities_api_categories_init` instead of `abilities_api_categories_init`... |
 
