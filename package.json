@@ -1,0 +1,12 @@
+{
+  "name": "noruzzaman-profile-sync",
+  "version": "1.0.0",
+  "description": "Syncs WordPress contribution stats to profile README",
+  "main": "scripts/sync.js",
+  "scripts": {
+    "sync": "node scripts/sync.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

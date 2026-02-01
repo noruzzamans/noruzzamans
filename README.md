@@ -38,11 +38,11 @@ I actively maintain several popular plugins on the WordPress.org repository:
 
 | Plugin | Active Installs | Rating |
 | :--- | :--- | :--- |
-| [Current Date Shortcode](https://wordpress.org/plugins/current-date/) | 3,000+ | ⭐⭐⭐⭐⭐ |
-| [Autocomplete Order Status](https://wordpress.org/plugins/autocomplete-wc-order-status/) | 2,000+ | ⭐⭐⭐⭐⭐ |
-| [Copy to Clipboard](https://wordpress.org/plugins/copy-to-clipboard-for-wp/) | 2,000+ | ⭐⭐⭐⭐☆ |
-| [Quick Checkout for WC](https://wordpress.org/plugins/quick-checkout-for-woocommerce/) | 2,000+ | ⭐⭐⭐⭐⭐ |
-| [Geomap - Google Map Block](https://wordpress.org/plugins/geomap-block/) | 1,000+ | ⭐⭐⭐⭐⭐ |
+| [Current Date Shortcode](https://wordpress.org/plugins/current-date/) | 1,000+ | ⭐⭐⭐⭐⭐ |
+| [Autocomplete Order Status](https://wordpress.org/plugins/autocomplete-wc-order-status/) | 900+ | ⭐⭐⭐⭐⭐ |
+| [Copy to Clipboard](https://wordpress.org/plugins/copy-to-clipboard-for-wp/) | 1,000+ | ⭐⭐⭐⭐☆ |
+| [Quick Checkout for WC](https://wordpress.org/plugins/quick-checkout-for-woocommerce/) | 700+ | ⭐⭐⭐⭐⭐ |
+| [Geomap - Google Map Block](https://wordpress.org/plugins/geomap-block/) | 100+ | ⭐⭐⭐⭐⭐ |
 
 <p align="center">
   <a href="https://profiles.wordpress.org/noruzzaman/#content-plugins">
@@ -66,15 +66,15 @@ I actively maintain several popular plugins on the WordPress.org repository:
       <h3 align="center">📋 WordPress Core Trac</h3>
       <p align="center">
         <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
-          <img src="https://img.shields.io/badge/Tickets_Participated-12-21759B?style=flat-square" alt="Tickets" />
+          <img src="https://img.shields.io/badge/Tickets_Participated-16-21759B?style=flat-square" alt="Tickets" />
         </a>
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
-          <img src="https://img.shields.io/badge/Props_Received-1-success?style=flat-square" alt="Props" />
+          <img src="https://img.shields.io/badge/Props_Received-9-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
         <li>🧪 <b>Test Reports:</b> 12</li>
-        <li>🚀 <b>WP 7.0 Focus:</b> 7 tickets</li>
+        <li>🚀 <b>WP 7.0 Focus:</b> 8 tickets</li>
       </ul>
       <p align="center">
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
@@ -86,14 +86,14 @@ I actively maintain several popular plugins on the WordPress.org repository:
       <h3 align="center">🧱 WordPress Gutenberg</h3>
       <p align="center">
         <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
-          <img src="https://img.shields.io/badge/PRs_Involved-7-21759B?style=flat-square" alt="PRs Involved" />
+          <img src="https://img.shields.io/badge/PRs_Involved-11-21759B?style=flat-square" alt="PRs Involved" />
         </a>
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
-          <img src="https://img.shields.io/badge/Props_Received-2-success?style=flat-square" alt="Props" />
+          <img src="https://img.shields.io/badge/Props_Received-4-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
-        <li>🛠️ <b>PRs Involved:</b> 7</li>
+        <li>🛠️ <b>PRs Involved:</b> 11</li>
         <li>💬 <b>Code Reviews:</b> 7</li>
       </ul>
       <p align="center">
@@ -122,7 +122,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/7.0-release/tickets.md">
-        <img src="https://img.shields.io/badge/7-WP_7.0_Tickets-blueviolet?style=for-the-badge" alt="WP 7.0" />
+        <img src="https://img.shields.io/badge/8-WP_7.0_Tickets-blueviolet?style=for-the-badge" alt="WP 7.0" />
       </a><br/>
       <sub><b>Upcoming Release Focus</b></sub>
     </td>
