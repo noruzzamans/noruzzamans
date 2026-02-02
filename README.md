@@ -69,7 +69,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
           <img src="https://img.shields.io/badge/Tickets_Participated-16-21759B?style=flat-square" alt="Tickets" />
         </a>
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
-          <img src="https://img.shields.io/badge/Props_Received-9-success?style=flat-square" alt="Props" />
+          <img src="https://img.shields.io/badge/Props_Received-10-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
@@ -86,14 +86,14 @@ I actively maintain several popular plugins on the WordPress.org repository:
       <h3 align="center">🧱 WordPress Gutenberg</h3>
       <p align="center">
         <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
-          <img src="https://img.shields.io/badge/PRs_Involved-11-21759B?style=flat-square" alt="PRs Involved" />
+          <img src="https://img.shields.io/badge/PRs_Involved-12-21759B?style=flat-square" alt="PRs Involved" />
         </a>
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
-          <img src="https://img.shields.io/badge/Props_Received-4-success?style=flat-square" alt="Props" />
+          <img src="https://img.shields.io/badge/Props_Received-5-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
-        <li>🛠️ <b>PRs Involved:</b> 11</li>
+        <li>🛠️ <b>PRs Involved:</b> 12</li>
         <li>💬 <b>Code Reviews:</b> 9</li>
       </ul>
       <p align="center">
