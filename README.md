@@ -69,7 +69,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
           <img src="https://img.shields.io/badge/Tickets_Participated-16-21759B?style=flat-square" alt="Tickets" />
         </a>
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
-          <img src="https://img.shields.io/badge/Props_Received-12-success?style=flat-square" alt="Props" />
+          <img src="https://img.shields.io/badge/Props_Received-13-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
@@ -116,7 +116,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/search?q=org%3AWordPress+involves%3Anoruzzamans&type=pullrequests">
-        <img src="https://img.shields.io/badge/39+-Involvement-success?style=for-the-badge" alt="Involvement" />
+        <img src="https://img.shields.io/badge/40+-Involvement-success?style=for-the-badge" alt="Involvement" />
       </a><br/>
       <sub><b>WordPress Org Repositories</b></sub>
     </td>
@@ -143,7 +143,7 @@ I actively maintain several popular plugins on the WordPress.org repository:
 <!-- START_MERGED_PRS -->
 | Repository | PRs | Recent Contributions |
 |------------|:---:|---------------|
-| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 18 | [i18n] Add Bengali translation for guides/wordpress-native-ios-app.md, [i18n] Add Bengali translation for guides/index.md, [i18n] Add Bengali translation for test.md... |
+| [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 19 | [i18n] Add Bengali translation for guides/playground-for-everyone.md, [i18n] Add Bengali translation for guides/wordpress-native-ios-app.md, [i18n] Add Bengali translation for guides/index.md... |
 | [WordPress/twentytwentyfive](https://github.com/WordPress/twentytwentyfive/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 6 | All patterns that are not hidden needs a description #290, All patterns that are not hidden needs a description #290, Add "Page with no title" template #272... |
 | [WordPress/WPCredits-Tracker](https://github.com/WordPress/WPCredits-Tracker/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 5 | Docs: Fix grammar errors, typos, and broken markdown link, Fix escaped exclamation marks, Documentation improvements: Fix formatting and complete onboarding sections... |
 | [WordPress/test-handbook](https://github.com/WordPress/test-handbook/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged) | 4 | Update usability testing handbook links in Gutenberg testing docs, Docs: fix Playground spelling in test core tickets guide, Docs: Fix typo in documenting-flow.md (“Treshold” → “Threshold”)... |
