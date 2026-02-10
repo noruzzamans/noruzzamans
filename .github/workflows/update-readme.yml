@@ -13,22 +13,155 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Fetch Stats
+        run: |
+          curl -s https://raw.githubusercontent.com/noruzzamans/wp-core-trac-contributions/main/stats.json > trac-stats.json
+          curl -s https://raw.githubusercontent.com/noruzzamans/wp-gutenberg-contributions/main/stats.json > gutenberg-stats.json
+
+      - name: Update README
+        uses: actions/github-script@v6
         with:
-          node-version: '20'
-          cache: 'npm'
+          script: |
+            const fs = require('fs');
+            
+            async function run() {
+              // 1. Read WordPress Stats from external files
+              let trac, guten;
+              try {
+                trac = JSON.parse(fs.readFileSync('trac-stats.json', 'utf8'));
+                guten = JSON.parse(fs.readFileSync('gutenberg-stats.json', 'utf8'));
+              } catch (e) {
+                console.log('Error reading stats files, using fallback.');
+                trac = { total: 0, props: 0, release_7_0: 0 };
+                guten = { total_involved: 0, with_props: 0, my_authored_merged: 0, merged_no_props: 0 };
+              }
 
-      - name: Install dependencies
-        run: npm install
+              // 2. Fetch Merged PRs from WordPress Org using GitHub API
+              const q = 'is:pr author:noruzzamans org:WordPress is:merged';
+              const searchResult = await github.rest.search.issuesAndPullRequests({ q, per_page: 100 });
+              const totalMergedPRs = searchResult.data.total_count;
+              const mergedPRs = searchResult.data.items;
 
-      - name: Run Sync Script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CORE_STATS_PATH: trac-stats.json
-          GUTENBERG_STATS_PATH: gutenberg-stats.json
-          README_PATH: README.md
-        run: node scripts/sync.js
+              const readmePath = 'README.md';
+              let readme = fs.readFileSync(readmePath, 'utf8');
+
+              // --- Section 1: WP Stats ---
+              const statsHtml = `
+            <table width="100%">
+              <tr>
+                <td width="50%" valign="top">
+                  <h3 align="center">📋 WordPress Core Trac</h3>
+                  <p align="center">
+                    <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
+                      <img src="https://img.shields.io/badge/Tickets_Participated-${trac.total}-21759B?style=flat-square" alt="Tickets" />
+                    </a>
+                    <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
+                      <img src="https://img.shields.io/badge/Props_Received-${trac.props}-success?style=flat-square" alt="Props" />
+                    </a>
+                  </p>
+                  <ul>
+                    <li>🧪 <b>Test Reports:</b> ${trac.total}</li>
+                    <li>🚀 <b>WP 7.0 Focus:</b> ${trac.release_7_0} tickets</li>
+                  </ul>
+                  <p align="center">
+                    <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
+                      <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
+                    </a>
+                  </p>
+                </td>
+                <td width="50%" valign="top">
+                  <h3 align="center">🧱 WordPress Gutenberg</h3>
+                  <p align="center">
+                    <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
+                      <img src="https://img.shields.io/badge/PRs_Involved-${guten.total_involved}-21759B?style=flat-square" alt="PRs Involved" />
+                    </a>
+                    <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
+                      <img src="https://img.shields.io/badge/Props_Received-${guten.with_props}-success?style=flat-square" alt="Props" />
+                    </a>
+                  </p>
+                  <ul>
+                    <li>🛠️ <b>PRs Involved:</b> ${guten.total_involved}</li>
+                    <li>💬 <b>Code Reviews:</b> ${guten.total_involved - guten.my_authored_merged}</li>
+                  </ul>
+                  <p align="center">
+                    <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
+                      <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
+                    </a>
+                  </p>
+                </td>
+              </tr>
+            </table>`;
+
+              // --- Section 2: Highlights ---
+              const highlightsHtml = `
+            <table>
+              <tr>
+                <td align="center" width="33%">
+                  <a href="https://github.com/search?q=org%3AWordPress+involves%3Anoruzzamans&type=pullrequests">
+                    <img src="https://img.shields.io/badge/${totalMergedPRs}+-Involvement-success?style=for-the-badge" alt="Involvement" />
+                  </a><br/>
+                  <sub><b>WordPress Org Repositories</b></sub>
+                </td>
+                <td align="center" width="33%">
+                  <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/7.0-release/tickets.md">
+                    <img src="https://img.shields.io/badge/${trac.release_7_0}-WP_7.0_Tickets-blueviolet?style=for-the-badge" alt="WP 7.0" />
+                  </a><br/>
+                  <sub><b>Upcoming Release Focus</b></sub>
+                </td>
+                <td align="center" width="33%">
+                  <a href="https://github.com/WordPress/wordpress-playground/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged">
+                    <img src="https://img.shields.io/badge/Bengali-i18n_Translations-21759B?style=for-the-badge" alt="i18n" />
+                  </a><br/>
+                  <sub><b>WordPress Playground</b></sub>
+                </td>
+              </tr>
+            </table>`;
+
+              // --- Section 3: Merged PRs list ---
+              const repos = {};
+              mergedPRs.forEach(pr => {
+                const parts = pr.repository_url.split('/');
+                const repoName = parts[parts.length - 1];
+                const repoUrl = `https://github.com/WordPress/${repoName}/pulls?q=is%3Apr+author%3Anoruzzamans+is%3Amerged`;
+                if (!repos[repoName]) repos[repoName] = { url: repoUrl, count: 0, titles: [] };
+                repos[repoName].count++;
+                if (repos[repoName].titles.length < 3) {
+                   const cleanTitle = pr.title.replace(/\|/g, '\\|').replace(/[<>]/g, '');
+                   repos[repoName].titles.push(cleanTitle);
+                }
+              });
+
+              let prTable = '| Repository | PRs | Recent Contributions |\n|------------|:---:|---------------|\n';
+              Object.keys(repos).sort((a,b) => repos[b].count - repos[a].count).forEach(name => {
+                const repo = repos[name];
+                prTable += `| [WordPress/${name}](${repo.url}) | ${repo.count} | ${repo.titles.join(', ')}... |\n`;
+              });
+              
+              prTable += `\n<p align="center">\n  <a href="https://github.com/pulls?q=is%3Apr+author%3Anoruzzamans+org%3AWordPress+is%3Amerged">\n    <img src="https://img.shields.io/badge/View_All_Merged_PRs-→-21759B?style=for-the-badge" alt="View All PRs" />\n  </a>\n</p>`;
+
+              // Update README with helper
+              const updateSection = (start, end, content) => {
+                const startIndex = readme.indexOf(start);
+                const endIndex = readme.indexOf(end);
+                if (startIndex !== -1 && endIndex !== -1) {
+                  readme = readme.substring(0, startIndex + start.length) + '\n' + content + '\n' + readme.substring(endIndex);
+                }
+              };
+
+              const oldReadme = fs.readFileSync(readmePath, 'utf8');
+              updateSection('<!-- STARTS_STATS -->', '<!-- END_STATS -->', statsHtml);
+              updateSection('<!-- START_HIGHLIGHTS -->', '<!-- END_HIGHLIGHTS -->', highlightsHtml);
+              updateSection('<!-- START_MERGED_PRS -->', '<!-- END_MERGED_PRS -->', prTable);
+
+              if (oldReadme !== readme) {
+                fs.writeFileSync(readmePath, readme);
+                console.log('✅ README updated with latest stats and PRs');
+              } else {
+                console.log('⏭️ No changes detected in the README. Skipping write.');
+              }
+            }
+
+            run();
 
       - name: Commit and Push changes
         run: |
