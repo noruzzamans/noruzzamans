@@ -66,14 +66,14 @@ I actively maintain several popular plugins on the WordPress.org repository:
       <h3 align="center">📋 WordPress Core Trac</h3>
       <p align="center">
         <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
-          <img src="https://img.shields.io/badge/Tickets_Participated-16-21759B?style=flat-square" alt="Tickets" />
+          <img src="https://img.shields.io/badge/Tickets_Participated-17-21759B?style=flat-square" alt="Tickets" />
         </a>
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
-          <img src="https://img.shields.io/badge/Props_Received-20-success?style=flat-square" alt="Props" />
+          <img src="https://img.shields.io/badge/Props_Received-21-success?style=flat-square" alt="Props" />
         </a>
       </p>
       <ul>
-        <li>🧪 <b>Test Reports:</b> 16</li>
+        <li>🧪 <b>Test Reports:</b> 17</li>
         <li>🚀 <b>WP 7.0 Focus:</b> 8 tickets</li>
       </ul>
       <p align="center">
