@@ -68,15 +68,9 @@ I actively maintain several popular plugins on the WordPress.org repository:
         <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
           <img src="https://img.shields.io/badge/Tickets_Participated-17-21759B?style=flat-square" alt="Tickets" />
         </a>
-<<<<<<< HEAD
-        <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
-          <img src="https://img.shields.io/badge/Props_Received-22-success?style=flat-square" alt="Props" />
-        </a>
-=======
         <!-- <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-10-success?style=flat-square" alt="Props" />
         </a> -->
->>>>>>> 71cb996 (Docs: comment out View Details buttons and Props Received badges in WordPress Open Source Contributions section)
       </p>
       <ul>
         <li>🧪 <b>Test Reports:</b> 17</li>
