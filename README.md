@@ -68,19 +68,25 @@ I actively maintain several popular plugins on the WordPress.org repository:
         <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
           <img src="https://img.shields.io/badge/Tickets_Participated-17-21759B?style=flat-square" alt="Tickets" />
         </a>
+<<<<<<< HEAD
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-22-success?style=flat-square" alt="Props" />
         </a>
+=======
+        <!-- <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
+          <img src="https://img.shields.io/badge/Props_Received-10-success?style=flat-square" alt="Props" />
+        </a> -->
+>>>>>>> 71cb996 (Docs: comment out View Details buttons and Props Received badges in WordPress Open Source Contributions section)
       </p>
       <ul>
         <li>🧪 <b>Test Reports:</b> 17</li>
         <li>🚀 <b>WP 7.0 Focus:</b> 8 tickets</li>
       </ul>
-      <p align="center">
+      <!-- <p align="center">
         <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
           <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
         </a>
-      </p>
+      </p> -->
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧱 WordPress Gutenberg</h3>
@@ -88,19 +94,19 @@ I actively maintain several popular plugins on the WordPress.org repository:
         <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
           <img src="https://img.shields.io/badge/PRs_Involved-12-21759B?style=flat-square" alt="PRs Involved" />
         </a>
-        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
+        <!-- <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
           <img src="https://img.shields.io/badge/Props_Received-5-success?style=flat-square" alt="Props" />
-        </a>
+        </a> -->
       </p>
       <ul>
         <li>🛠️ <b>PRs Involved:</b> 12</li>
         <li>💬 <b>Code Reviews:</b> 9</li>
       </ul>
-      <p align="center">
+      <!-- <p align="center">
         <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
           <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
         </a>
-      </p>
+      </p> -->
     </td>
   </tr>
 </table>
