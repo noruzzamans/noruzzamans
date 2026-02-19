@@ -84,11 +84,24 @@ async function updateReadme() {
                 /(Tickets_Participated-)(\d+)(-21759B)/,
                 `$1${coreStats.total}$3`
             );
-            // Update Props Received (Core)
+            // Update Props Received (Core) - ensured commented out
+            if (!tracSection.includes('<!-- <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">')) {
+                tracSection = tracSection.replace(
+                    /(<a href="https:\/\/github\.com\/noruzzamans\/wp-core-trac-contributions\/blob\/main\/contributed\/with-props\.md">[\s\S]*?<\/a>)/,
+                    `<!-- $1 -->`
+                );
+            }
             tracSection = tracSection.replace(
                 /(Props_Received-)(\d+)(-success\?style=flat-square" alt="Props" \/>)/,
                 `$1${coreStats.props}$3`
             );
+            // Ensure View Details is commented out
+            if (!tracSection.includes('<!-- <p align="center">\n        <a href="https://github.com/noruzzamans/wp-core-trac-contributions">')) {
+                tracSection = tracSection.replace(
+                    /(<p align="center">[\s\S]*?View_Details-→-21759B[\s\S]*?<\/p>)/,
+                    `<!-- $1 -->`
+                );
+            }
             // Update Test Reports
             tracSection = tracSection.replace(
                 /(<li>🧪 <b>Test Reports:<\/b> )(\d+)(<\/li>)/,
@@ -125,11 +138,24 @@ async function updateReadme() {
                 /(PRs_Involved-)(\d+)(-21759B)/,
                 `$1${gStats.total_involved}$3`
             );
-            // Update Props Received (Gutenberg)
+            // Update Props Received (Gutenberg) - ensured commented out
+            if (!gSection.includes('<!-- <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">')) {
+                gSection = gSection.replace(
+                    /(<a href="https:\/\/github\.com\/noruzzamans\/wp-gutenberg-contributions\/blob\/main\/contributed\/with-props\.md">[\s\S]*?<\/a>)/,
+                    `<!-- $1 -->`
+                );
+            }
             gSection = gSection.replace(
                 /(Props_Received-)(\d+)(-success\?style=flat-square" alt="Props" \/>)/,
                 `$1${gStats.with_props}$3`
             );
+            // Ensure View Details is commented out
+            if (!gSection.includes('<!-- <p align="center">\n        <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">')) {
+                gSection = gSection.replace(
+                    /(<p align="center">[\s\S]*?View_Details-→-21759B[\s\S]*?<\/p>)/,
+                    `<!-- $1 -->`
+                );
+            }
             // Update PRs Involved List
             gSection = gSection.replace(
                 /(<li>🛠️ <b>PRs Involved:<\/b> )(\d+)(<\/li>)/,

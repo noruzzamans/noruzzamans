@@ -1,8 +1,8 @@
 name: Update Profile Stats
 
 on:
-  schedule:
-    - cron: '10 0 * * *' # Runs at 6:10 AM Bangladesh Time (UTC+6)
+#  schedule:
+#    - cron: '10 0 * * *' # Runs at 6:10 AM Bangladesh Time (UTC+6)
   workflow_dispatch:
 
 jobs:
@@ -55,19 +55,19 @@ jobs:
                     <a href="https://core.trac.wordpress.org/my-comments/all?USER=noruzzaman">
                       <img src="https://img.shields.io/badge/Tickets_Participated-${trac.total}-21759B?style=flat-square" alt="Tickets" />
                     </a>
-                    <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
+                    <!-- <a href="https://github.com/noruzzamans/wp-core-trac-contributions/blob/main/contributed/with-props.md">
                       <img src="https://img.shields.io/badge/Props_Received-${trac.props}-success?style=flat-square" alt="Props" />
-                    </a>
+                    </a> -->
                   </p>
                   <ul>
                     <li>🧪 <b>Test Reports:</b> ${trac.total}</li>
                     <li>🚀 <b>WP 7.0 Focus:</b> ${trac.release_7_0} tickets</li>
                   </ul>
-                  <p align="center">
+                  <!-- <p align="center">
                     <a href="https://github.com/noruzzamans/wp-core-trac-contributions">
                       <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
                     </a>
-                  </p>
+                  </p> -->
                 </td>
                 <td width="50%" valign="top">
                   <h3 align="center">🧱 WordPress Gutenberg</h3>
@@ -75,19 +75,19 @@ jobs:
                     <a href="https://github.com/WordPress/gutenberg/pulls?q=involves:noruzzamans">
                       <img src="https://img.shields.io/badge/PRs_Involved-${guten.total_involved}-21759B?style=flat-square" alt="PRs Involved" />
                     </a>
-                    <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
+                    <!-- <a href="https://github.com/noruzzamans/wp-gutenberg-contributions/blob/main/contributed/with-props.md">
                       <img src="https://img.shields.io/badge/Props_Received-${guten.with_props}-success?style=flat-square" alt="Props" />
-                    </a>
+                    </a> -->
                   </p>
                   <ul>
                     <li>🛠️ <b>PRs Involved:</b> ${guten.total_involved}</li>
                     <li>💬 <b>Code Reviews:</b> ${guten.total_involved - guten.my_authored_merged}</li>
                   </ul>
-                  <p align="center">
+                  <!-- <p align="center">
                     <a href="https://github.com/noruzzamans/wp-gutenberg-contributions">
                       <img src="https://img.shields.io/badge/View_Details-→-21759B?style=for-the-badge" alt="View Details" />
                     </a>
-                  </p>
+                  </p> -->
                 </td>
               </tr>
             </table>`;
