@@ -26,9 +26,9 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 
 > The Ultimate Gutenberg Carousel Collection. 10+ Blocks including Logo, Image, video & Testimonial carousels.
 
-- **Active Installs:** 800+
+- **Active Installs:** 1000+
 - **Rating:** ⭐⭐⭐⭐⭐ (5/5)
-- **Downloads:** 5,453+
+- **Downloads:** 7000+
 
 ---
 
