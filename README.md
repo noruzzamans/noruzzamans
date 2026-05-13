@@ -28,7 +28,7 @@ I'm a **WordPress Developer** from Bangladesh, passionate about contributing to 
 
 - **Active Installs:** 2000+
 - **Rating:** ⭐⭐⭐⭐⭐ (5/5)
-- **Downloads:** 9800+
+- **Downloads:** 11,348+
 
 ---
 
