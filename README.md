@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **WordPress Developer** from Bangladesh, passionate about contributing to WordPress Core and building amazing Gutenberg blocks. Currently working at **[BoomDevs](https://boomdevs.com/)**, I specialize in developing interactive themes, plugins, and custom solutions.
+I'm a **WordPress Developer** from Bangladesh, passionate about contributing to WordPress Core and building amazing Gutenberg blocks. I specialize in developing interactive themes, plugins, and custom solutions.
 
 - 🔭 Currently working on **Gutenberg Blocks & WordPress Core**
 - 🏆 **WordPress Core Contributor** with official props
