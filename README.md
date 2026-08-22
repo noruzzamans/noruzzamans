@@ -3,15 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noruzzamans&label=Profile%20Views&color=21759b&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://profiles.wordpress.org/noruzzaman/"><img src="https://img.shields.io/badge/WordPress.org-Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Profile" /></a>
   <a href="https://github.com/search?q=org%3AWordPress+involves%3Anoruzzamans&type=pullrequests"><img src="https://img.shields.io/badge/WordPress-Core_Contributor-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Core Contributor" /></a>
   <a href="https://www.linkedin.com/in/noruzzaman/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/NoruzzamanRube1"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="mailto:noruzzamanrubel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
