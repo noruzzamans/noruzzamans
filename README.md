@@ -55,14 +55,6 @@ Experienced **WordPress Core Contributor & Full-Stack Developer** from Banglades
 
 ---
 
-### 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noruzzamans&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</p>
-
----
-
 ### 💡 Daily Dev Quote
 
 <p align="center">
