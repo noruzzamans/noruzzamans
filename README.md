@@ -20,7 +20,7 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 
 ---
 
-## Contributions
+## Contributions (32 Repositories)
 
 - **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development repository powering 43%+ of the web.
 - **[gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans)** -- The Block Editor project for WordPress and beyond. Plugin repository for WordPress core development.
@@ -53,7 +53,6 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 - **[gatherpress](https://github.com/GatherPress/gatherpress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Community-led event management system built natively with the WordPress Block Editor.
 - **[mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Mailchimp for WordPress plugin repository.
 - **[.github](https://github.com/Fueled/.github/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Open-source developer health workflows and AI coding agent skills for Fueled.
-- **[entity-command](https://github.com/wp-cli/entity-command/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Manage WordPress posts, users, comments, terms, and more through WP-CLI.
 - **[wp-events-dashboard](https://github.com/WordPress/wp-events-dashboard/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Community Events dashboard and aggregator.
 
 ---
