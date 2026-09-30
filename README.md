@@ -1,9 +1,9 @@
-# Hi there, I'm Md. Noruzzaman (Rubel) 👋
+# Hi there, I'm Md. Noruzzaman 👋
 
 **Senior WordPress Systems & Core Engineer | WordPress 7.2 Release Squad (Test Lead) | Yoast Care Fund Recipient**
 
 [![WordPress Core](https://img.shields.io/badge/WordPress_7.2-Release_Squad_(Test_Lead)-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://make.wordpress.org/core/tag/7-2/)
-[![Yoast Care Fund](https://img.shields.io/badge/Yoast_Care_Fund-Recipient-A4286A?style=for-the-badge&logo=yoast&logoColor=white)](https://yoast.com/)
+[![Yoast Care Fund](https://img.shields.io/badge/Yoast_Care_Fund-Recipient-A4286A?style=for-the-badge&logo=yoast&logoColor=white)](https://yoast.com/community/care-fund/recipients/md-noruzzaman/)
 [![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-47+_Trac_Changesets-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/noruzzaman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noruzzaman/)
 
