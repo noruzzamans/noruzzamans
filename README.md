@@ -20,14 +20,6 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 
 ---
 
-## Projects
-
-- **[modern-wordpress-engineering](https://github.com/noruzzamans/modern-wordpress-engineering)** -- Enterprise WordPress Engineering Playbook: Automated testing (PHPUnit), architecture, and live open-source contributions across WordPress Core, Automattic Jetpack, and WooCommerce.
-- **[wordpress-theme-contribution-guide](https://github.com/noruzzamans/wordpress-theme-contribution-guide)** -- Comprehensive guide on Block Themes, `theme.json`, and WordPress Core default theme development.
-- **[wordpress-7.2-contributions](https://github.com/noruzzamans/wordpress-7.2-contributions)** -- Official WordPress 7.2 Release Squad test scrubs, tickets, and core modernization tracking.
-
----
-
 ## Contributions
 
 - **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development repository powering 43%+ of the web.
