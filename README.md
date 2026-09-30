@@ -1,4 +1,4 @@
-# Hi there, I'm Md. Noruzzaman 👋
+# Hi there, I'm Noruzzaman 👋
 
 **Senior WordPress Systems & Core Engineer | WordPress 7.2 Release Squad (Test Lead) | Yoast Care Fund Recipient**
 
