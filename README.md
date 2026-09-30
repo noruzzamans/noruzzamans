@@ -22,38 +22,38 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 
 ## Contributions (32 Repositories)
 
-- **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development repository powering 43%+ of the web.
-- **[gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans)** -- The Block Editor project for WordPress and beyond. Plugin repository for WordPress core development.
-- **[woocommerce](https://github.com/woocommerce/woocommerce/pulls?q=is%3Apr+author%3Anoruzzamans)** -- A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
-- **[woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Take credit card payments directly in your store via Stripe.
-- **[jetpack](https://github.com/Automattic/jetpack/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
-- **[action-scheduler](https://github.com/woocommerce/action-scheduler/pulls?q=is%3Apr+author%3Anoruzzamans)** -- A scalable, traceable job queue for background processing large queues of tasks in WordPress. Specifically designed for distribution in WordPress plugins and themes - no server access required.
-- **[ai](https://github.com/WordPress/ai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- The official WordPress AI initiative bringing modern AI capabilities into WordPress Core.
-- **[php-ai-client](https://github.com/WordPress/php-ai-client/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Provider-agnostic PHP AI client SDK for WordPress generative AI integrations.
-- **[ai-provider-for-openai](https://github.com/WordPress/ai-provider-for-openai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Official OpenAI provider integration for the WordPress AI platform.
-- **[ai-provider-for-google](https://github.com/WordPress/ai-provider-for-google/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Official Google Gemini AI provider integration for WordPress.
+- **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development codebase.
+- **[gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress block editor and full-site editing platform.
+- **[woocommerce](https://github.com/woocommerce/woocommerce/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Open-source eCommerce platform for WordPress.
+- **[woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Stripe payment gateway integration for WooCommerce.
+- **[jetpack](https://github.com/Automattic/jetpack/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Security, performance, and site management tools for WordPress.
+- **[action-scheduler](https://github.com/woocommerce/action-scheduler/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Scalable background job processing queue for WordPress.
+- **[ai](https://github.com/WordPress/ai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Official WordPress AI platform and LLM integration framework.
+- **[php-ai-client](https://github.com/WordPress/php-ai-client/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Provider-agnostic PHP AI client SDK for WordPress.
+- **[ai-provider-for-openai](https://github.com/WordPress/ai-provider-for-openai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- OpenAI provider integration for WordPress Core AI.
+- **[ai-provider-for-google](https://github.com/WordPress/ai-provider-for-google/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Google Gemini AI provider integration for WordPress Core AI.
 - **[ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Local LLM inference provider for WordPress AI workflows.
 - **[mcp-adapter](https://github.com/WordPress/mcp-adapter/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Model Context Protocol (MCP) server adapter for WordPress AI agents.
-- **[site-kit-wp](https://github.com/google/site-kit-wp/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
-- **[ElasticPress](https://github.com/10up/ElasticPress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- A fast and flexible search and query engine for WordPress built on Elasticsearch and OpenSearch.
-- **[distributor](https://github.com/10up/distributor/pulls?q=is%3Apr+author%3Anoruzzamans)** -- A WordPress plugin that makes it easy to syndicate and distribute content across websites.
-- **[safe-redirect-manager](https://github.com/10up/safe-redirect-manager/issues?q=author%3Anoruzzamans)** -- Safe Redirect Manager is an HTTP redirect manager for WordPress.
-- **[S3-Uploads](https://github.com/humanmade/S3-Uploads/pulls?q=is%3Apr+author%3Anoruzzamans)** -- The WordPress plugin to store uploads on Amazon S3 and compatible object storage.
-- **[wp-graphql](https://github.com/wp-graphql/wp-graphql/pulls?q=is%3Apr+author%3Anoruzzamans)** -- A free, open-source WordPress plugin that provides an extendable GraphQL interface for any WordPress site.
-- **[faustjs](https://github.com/wpengine/faustjs/pulls?q=is%3Apr+author%3Anoruzzamans)** -- The Headless WordPress Framework for Next.js.
-- **[stream](https://github.com/xwp/stream/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Stream WordPress activity tracking plugin.
+- **[site-kit-wp](https://github.com/google/site-kit-wp/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Google's official WordPress plugin for Analytics and Search Console.
+- **[ElasticPress](https://github.com/10up/ElasticPress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Enterprise Elasticsearch and OpenSearch integration for WordPress.
+- **[distributor](https://github.com/10up/distributor/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Cross-site content syndication and multisite publishing engine.
+- **[safe-redirect-manager](https://github.com/10up/safe-redirect-manager/issues?q=author%3Anoruzzamans)** -- Safe HTTP redirection manager for WordPress.
+- **[S3-Uploads](https://github.com/humanmade/S3-Uploads/pulls?q=is%3Apr+author%3Anoruzzamans)** -- AWS S3 object storage stream wrapper for WordPress.
+- **[wp-graphql](https://github.com/wp-graphql/wp-graphql/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Extendable GraphQL API for WordPress.
+- **[faustjs](https://github.com/wpengine/faustjs/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Headless WordPress framework for Next.js.
+- **[stream](https://github.com/xwp/stream/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Enterprise audit logging and activity tracking plugin.
 - **[wordpress-seo](https://github.com/Yoast/wordpress-seo/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Yoast SEO for WordPress.
-- **[plugin-check](https://github.com/WordPress/plugin-check/pulls?q=is%3Apr+author%3Anoruzzamans)** -- A tool to check WordPress plugins against coding, quality, and security standards.
+- **[plugin-check](https://github.com/WordPress/plugin-check/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Official static code analysis and linting tool for WordPress plugins.
 - **[ipsum](https://github.com/WordPress/ipsum/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Official default block theme for upcoming WordPress core releases.
-- **[wp-calypso](https://github.com/Automattic/wp-calypso/pulls?q=is%3Apr+author%3Anoruzzamans)** -- The JavaScript/TypeScript single-page web application and monorepo powering WordPress.com.
-- **[co-authors-plus](https://github.com/Automattic/co-authors-plus/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Assign multiple bylines to posts, pages, and custom post types via search-as-you-type.
-- **[two-factor](https://github.com/WordPress/two-factor/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Two-Factor Authentication framework and security plugin for WordPress.
-- **[php-toolkit](https://github.com/WordPress/php-toolkit/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Modern, zero-dependency PHP core components and stream utilities for WordPress.
-- **[contributor-toolkit](https://github.com/WordPress/contributor-toolkit/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Desktop and CLI companion applications for WordPress Core contributors.
-- **[gatherpress](https://github.com/GatherPress/gatherpress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Community-led event management system built natively with the WordPress Block Editor.
-- **[mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Mailchimp for WordPress plugin repository.
-- **[.github](https://github.com/Fueled/.github/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Open-source developer health workflows and AI coding agent skills for Fueled.
-- **[wp-events-dashboard](https://github.com/WordPress/wp-events-dashboard/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Community Events dashboard and aggregator.
+- **[wp-calypso](https://github.com/Automattic/wp-calypso/pulls?q=is%3Apr+author%3Anoruzzamans)** -- TypeScript single-page application powering WordPress.com.
+- **[co-authors-plus](https://github.com/Automattic/co-authors-plus/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Multiple bylines and guest author management for WordPress.
+- **[two-factor](https://github.com/WordPress/two-factor/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Two-Factor Authentication framework for WordPress.
+- **[php-toolkit](https://github.com/WordPress/php-toolkit/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Zero-dependency PHP core components and stream utilities.
+- **[contributor-toolkit](https://github.com/WordPress/contributor-toolkit/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Companion applications for WordPress Core contributors.
+- **[gatherpress](https://github.com/GatherPress/gatherpress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Community event management built with the WordPress Block Editor.
+- **[mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Mailchimp newsletter signup integration for WordPress.
+- **[.github](https://github.com/Fueled/.github/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Open-source developer health workflows and AI agent skills.
+- **[wp-events-dashboard](https://github.com/WordPress/wp-events-dashboard/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress community events dashboard and aggregator.
 
 ---
 
