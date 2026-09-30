@@ -21,47 +21,41 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 
 ---
 
-## 🏆 Shipped & Merged Contributions (Production Code)
+## Contributions
 
-### 👑 WordPress Core & Default Themes
-- **[WordPress/wordpress-develop (SVN r64009)](https://core.trac.wordpress.org/changeset/64009)** — Tests: Use `assertWPError()` in post test suites *(Committed by Lance Willett)*.
-- **[WordPress/wordpress-develop (SVN r63637)](https://core.trac.wordpress.org/changeset/63637)** — Tests: Use `assertWPError()` in includesPost tests *(Committed by Lance Willett)*.
-- **[WordPress/wordpress-develop (SVN r63630)](https://core.trac.wordpress.org/changeset/63630)** — Code Quality: Correct `@param` annotation for variadic parameter in Block Processor *(Committed by Sergey Biryukov)*.
-- **[WordPress/wordpress-develop (SVN r63615)](https://core.trac.wordpress.org/changeset/63615)** — Tests: Use `assertWPError()` in classic-to-block menu converter tests.
-- **[WordPress/gutenberg (PR #83782)](https://github.com/WordPress/gutenberg/pull/83782)** — Tests: Use strict assertions in override script tests *(Merged into trunk by Lance Willett)*.
-- **[WordPress/ipsum (PR #76)](https://github.com/WordPress/ipsum/pull/76)** — Fix missing footer in Index Sidebar template pattern for the upcoming 7.2 default theme.
-- **[WordPress/ipsum (PR #109)](https://github.com/WordPress/ipsum/pull/109)** — Semantic heading modernization in overlay contents pattern.
-- **[WordPress/plugin-check (PR #1476)](https://github.com/WordPress/plugin-check/pull/1476) & [PR #1479](https://github.com/WordPress/plugin-check/pull/1479)** — Unit test suites for `Readme_Utils` and `Ignore_Matcher` file filtering utilities.
-
-### 🌐 Automattic & WooCommerce Ecosystem
-- **[woocommerce/woocommerce-gateway-stripe (PR #5976, #5959, #5952, #5941)](https://github.com/woocommerce/woocommerce-gateway-stripe/pull/5976)** — Comprehensive unit test suites for payment token classes (SEPA IBAN, ACSS, BECS, CashApp, Link, Amazon Pay) under PHPStan Level 8 *(Merged by Dale du Preez)*.
-- **[woocommerce/woocommerce (PR #68636)](https://github.com/woocommerce/woocommerce/pull/68636)** — Admin CSV import/export security hardening and MIME-type validation.
-- **[Automattic/jetpack (PR #52252)](https://github.com/Automattic/jetpack/pull/52252)** — Password Checker: Information entropy calculations and profile substring validation.
-- **[wp-graphql/wp-graphql (PR #4321)](https://github.com/wp-graphql/wp-graphql/pull/4321)** — Unit test coverage for GraphQL core `Utils` helper methods.
-
-### 🤖 Generative AI & Next-Gen WordPress Tooling
-- **[WordPress/ai (PR #1056, #1051, #1038, #1033, #1022)](https://github.com/WordPress/ai/pull/1056)** — Unit test coverage across Logging integration, AI Request Log schemas, semver upgrades, and deactivation routines.
-- **[WordPress/ai-provider-for-google (PR #48)](https://github.com/WordPress/ai-provider-for-google/pull/48)** — Composer packaging hygiene and `.gitattributes` archive exclusions.
-- **[Fueled/ai-provider-for-ollama (PR #101)](https://github.com/Fueled/ai-provider-for-ollama/pull/101)** — Health-check discovery timeouts and error resilience *(Merged by Darin Kotter)*.
-- **[GatherPress/gatherpress (PR #2315, #2321, #2337)](https://github.com/GatherPress/gatherpress/pull/2337)** — Autoloader subsystems, path traversal guards, and migration engine testing.
-
----
-
-## 🟢 Active In-Flight Contributions (Under Review)
-
-- **[WordPress/wordpress-develop (PR #13832)](https://github.com/WordPress/wordpress-develop/pull/13832)** — 🟢 *Ready for Review:* Document deliberate loose object comparisons in bookmark tests (Trac #64895).
-- **[WordPress/gutenberg (PR #83845)](https://github.com/WordPress/gutenberg/pull/83845)** — 🟢 *Ready for Review:* Verify script localization data retention in `gutenberg_override_script()`.
-- **[woocommerce/action-scheduler (PR #1378)](https://github.com/woocommerce/action-scheduler/pull/1378)** — 🟢 *Ready for Review:* Multi-timezone job queue hydration across UTC offsets.
-- **[woocommerce/woocommerce-gateway-stripe (PR #6016)](https://github.com/woocommerce/woocommerce-gateway-stripe/pull/6016)** — 🟢 *Ready for Review:* ACH and Klarna payment token unit test suites.
-- **[10up/ElasticPress (PR #4370)](https://github.com/10up/ElasticPress/pull/4370)** — ⏳ *In Review:* Elasticsearch 8.x indexing suites and template manager coverage.
-- **[google/site-kit-wp (PR #13547)](https://github.com/google/site-kit-wp/pull/13547)** — ⏳ *In Review:* Analytics date range boundary matrices and leap year calculations.
-- **[humanmade/S3-Uploads (PR #752)](https://github.com/humanmade/S3-Uploads/pull/752)** — ⏳ *In Review:* Presigned URL generation, ACL batching, and AWS S3 SDK v3 testing with MinIO.
-- **[wpengine/faustjs (PR #2521)](https://github.com/wpengine/faustjs/pull/2521)** — 🟢 *Ready for Review:* Next.js 15+ server auth middleware, RFC 6265 token sanitization, and Cookies suites.
-- **[xwp/stream (PR #2013)](https://github.com/xwp/stream/pull/2013)** — ⏳ *In Review:* Enterprise audit trail WooCommerce connector unit test suite.
-- **[10up/distributor (PR #1402)](https://github.com/10up/distributor/pull/1402)** — 🟢 *Ready for Review:* Multi-site syndication integration tests for registered data handlers.
-- **[WordPress/mcp-adapter (PR #335)](https://github.com/WordPress/mcp-adapter/pull/335)** — 🟢 *Ready for Review:* Console observability event serialization for Model Context Protocol.
-- **[WordPress/php-ai-client (PR #297)](https://github.com/WordPress/php-ai-client/pull/297)** — 🟢 *Ready for Review:* HTTP error extraction subsystem for provider-agnostic PHP AI SDK.
-- **[WordPress/ai-provider-for-openai (PR #53)](https://github.com/WordPress/ai-provider-for-openai/pull/53)** — 🟢 *Approved:* Model capability factory and exception handling.
+[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans) -- WordPress Core development repository powering 43%+ of the web.
+[gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans) -- The Block Editor project for WordPress and beyond. Plugin repository for WordPress core development.
+[woocommerce](https://github.com/woocommerce/woocommerce/pulls?q=is%3Apr+author%3Anoruzzamans) -- A customizable, open-source ecommerce platform built on WordPress.
+[woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe/pulls?q=is%3Apr+author%3Anoruzzamans) -- Take credit card payments directly in your store via Stripe.
+[jetpack](https://github.com/Automattic/jetpack/pulls?q=is%3Apr+author%3Anoruzzamans) -- Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
+[action-scheduler](https://github.com/woocommerce/action-scheduler/pulls?q=is%3Apr+author%3Anoruzzamans) -- A scalable, traceable job queue for background processing large queues of tasks in WordPress.
+[ai](https://github.com/WordPress/ai/pulls?q=is%3Apr+author%3Anoruzzamans) -- The official WordPress AI initiative bringing modern AI capabilities into WordPress Core.
+[php-ai-client](https://github.com/WordPress/php-ai-client/pulls?q=is%3Apr+author%3Anoruzzamans) -- Provider-agnostic PHP AI client SDK for WordPress generative AI integrations.
+[ai-provider-for-openai](https://github.com/WordPress/ai-provider-for-openai/pulls?q=is%3Apr+author%3Anoruzzamans) -- Official OpenAI provider integration for the WordPress AI platform.
+[ai-provider-for-google](https://github.com/WordPress/ai-provider-for-google/pulls?q=is%3Apr+author%3Anoruzzamans) -- Official Google Gemini AI provider integration for WordPress.
+[ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama/pulls?q=is%3Apr+author%3Anoruzzamans) -- Local LLM inference provider for WordPress AI workflows.
+[mcp-adapter](https://github.com/WordPress/mcp-adapter/pulls?q=is%3Apr+author%3Anoruzzamans) -- Model Context Protocol (MCP) server adapter for WordPress AI agents.
+[site-kit-wp](https://github.com/google/site-kit-wp/pulls?q=is%3Apr+author%3Anoruzzamans) -- Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
+[ElasticPress](https://github.com/10up/ElasticPress/pulls?q=is%3Apr+author%3Anoruzzamans) -- A fast and flexible search and query engine for WordPress built on Elasticsearch and OpenSearch.
+[distributor](https://github.com/10up/distributor/pulls?q=is%3Apr+author%3Anoruzzamans) -- A WordPress plugin that makes it easy to syndicate and distribute content across websites.
+[safe-redirect-manager](https://github.com/10up/safe-redirect-manager/issues?q=author%3Anoruzzamans) -- Safe Redirect Manager is an HTTP redirect manager for WordPress.
+[S3-Uploads](https://github.com/humanmade/S3-Uploads/pulls?q=is%3Apr+author%3Anoruzzamans) -- The WordPress plugin to store uploads on Amazon S3 and compatible object storage.
+[wp-graphql](https://github.com/wp-graphql/wp-graphql/pulls?q=is%3Apr+author%3Anoruzzamans) -- A free, open-source WordPress plugin that provides an extendable GraphQL interface for any WordPress site.
+[faustjs](https://github.com/wpengine/faustjs/pulls?q=is%3Apr+author%3Anoruzzamans) -- The Headless WordPress Framework for Next.js.
+[stream](https://github.com/xwp/stream/pulls?q=is%3Apr+author%3Anoruzzamans) -- Stream WordPress activity tracking plugin.
+[wordpress-seo](https://github.com/Yoast/wordpress-seo/pulls?q=is%3Apr+author%3Anoruzzamans) -- Yoast SEO for WordPress.
+[plugin-check](https://github.com/WordPress/plugin-check/pulls?q=is%3Apr+author%3Anoruzzamans) -- A tool to check WordPress plugins against coding, quality, and security standards.
+[ipsum](https://github.com/WordPress/ipsum/pulls?q=is%3Apr+author%3Anoruzzamans) -- Official default block theme for upcoming WordPress core releases.
+[wp-calypso](https://github.com/Automattic/wp-calypso/pulls?q=is%3Apr+author%3Anoruzzamans) -- The JavaScript/TypeScript single-page web application and monorepo powering WordPress.com.
+[co-authors-plus](https://github.com/Automattic/co-authors-plus/pulls?q=is%3Apr+author%3Anoruzzamans) -- Assign multiple bylines to posts, pages, and custom post types via search-as-you-type.
+[two-factor](https://github.com/WordPress/two-factor/pulls?q=is%3Apr+author%3Anoruzzamans) -- Two-Factor Authentication framework and security plugin for WordPress.
+[php-toolkit](https://github.com/WordPress/php-toolkit/pulls?q=is%3Apr+author%3Anoruzzamans) -- Modern, zero-dependency PHP core components and stream utilities for WordPress.
+[contributor-toolkit](https://github.com/WordPress/contributor-toolkit/pulls?q=is%3Apr+author%3Anoruzzamans) -- Desktop and CLI companion applications for WordPress Core contributors.
+[gatherpress](https://github.com/GatherPress/gatherpress/pulls?q=is%3Apr+author%3Anoruzzamans) -- Community-led event management system built natively with the WordPress Block Editor.
+[mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress/pulls?q=is%3Apr+author%3Anoruzzamans) -- Mailchimp for WordPress plugin repository.
+[.github](https://github.com/Fueled/.github/pulls?q=is%3Apr+author%3Anoruzzamans) -- Open-source developer health workflows and AI coding agent skills for Fueled.
+[entity-command](https://github.com/wp-cli/entity-command/pulls?q=is%3Apr+author%3Anoruzzamans) -- Manage WordPress posts, users, comments, terms, and more through WP-CLI.
+[wp-events-dashboard](https://github.com/WordPress/wp-events-dashboard/pulls?q=is%3Apr+author%3Anoruzzamans) -- WordPress Community Events dashboard and aggregator.
 
 ---
 
@@ -77,7 +71,7 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 ## 🎙️ Community & Speaking Leadership
 
 - 🎤 **WordCamp Sylhet 2026:** Official Panel Speaker (*"Contributor Showcase: Representing Bangladesh"*) & Contributor Day Themes Table Lead.
-- 📘 **Author:** [WordPress Theme Contribution Guide](https://github.com/noruzzamans/wordpress-theme-contribution-guide) (Comprehensive 10-page guide on Block Themes, `theme.json`, and `WordPress/ipsum`).
+- 📘 **Author:** [WordPress Theme Contribution Guide](https://github.com/noruzzamans/wordpress-theme-contribution-guide) (Comprehensive guide on Block Themes, `theme.json`, and `WordPress/ipsum`).
 - 🛠️ **WordCamp Rajshahi 2026:** Themes Table Lead (Contributor Day).
 - 🏛️ **WPCampus Connect Bogura 2026:** Lead Organizer.
 - 🤝 **WordCamp Dhaka 2025:** Official Event Volunteer.
@@ -100,4 +94,4 @@ Cloud & Edge:         Cloudflare Workers, Cloudflare D1 SQLite, Shopify Admin Gr
 - 💼 **LinkedIn:** [linkedin.com/in/noruzzaman](https://www.linkedin.com/in/noruzzaman/)
 - 🌐 **WordPress.org:** [profiles.wordpress.org/noruzzaman](https://profiles.wordpress.org/noruzzaman/)
 - 🐙 **GitHub:** [github.com/noruzzamans](https://github.com/noruzzamans)
-- ✉️ **Email:** rubel.developer.bd@gmail.com
+- ✉️ **Email:** noruzzamanrubel@gmail.com
