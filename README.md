@@ -20,7 +20,7 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 
 ---
 
-## Contributions (35 Repositories)
+## Contributions (34 Repositories)
 
 - **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development codebase.
 - **[ai](https://github.com/WordPress/ai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Official WordPress AI platform and LLM integration framework.
@@ -52,7 +52,6 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 - **[ElasticPress](https://github.com/10up/ElasticPress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Enterprise Elasticsearch and OpenSearch integration for WordPress.
 - **[distributor](https://github.com/10up/distributor/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Cross-site content syndication and multisite publishing engine.
 - **[.github](https://github.com/Fueled/.github/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Open-source developer health workflows and AI agent skills.
-- **[safe-redirect-manager](https://github.com/10up/safe-redirect-manager/issues?q=author%3Anoruzzamans)** -- Safe HTTP redirection manager for WordPress.
 - **[S3-Uploads](https://github.com/humanmade/S3-Uploads/pulls?q=is%3Apr+author%3Anoruzzamans)** -- AWS S3 object storage stream wrapper for WordPress.
 - **[stream](https://github.com/xwp/stream/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Enterprise audit logging and activity tracking plugin.
 - **[wordpress-seo](https://github.com/Yoast/wordpress-seo/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Yoast SEO for WordPress.
