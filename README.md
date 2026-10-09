@@ -20,7 +20,7 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 
 ---
 
-## Contributions (33 Repositories)
+## Contributions (35 Repositories)
 
 - **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development codebase.
 - **[gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress block editor and full-site editing platform.
@@ -32,12 +32,14 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 - **[php-ai-client](https://github.com/WordPress/php-ai-client/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Provider-agnostic PHP AI client SDK for WordPress.
 - **[ai-provider-for-openai](https://github.com/WordPress/ai-provider-for-openai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- OpenAI provider integration for WordPress Core AI.
 - **[ai-provider-for-google](https://github.com/WordPress/ai-provider-for-google/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Google Gemini AI provider integration for WordPress Core AI.
+- **[ai-provider-for-anthropic](https://github.com/WordPress/ai-provider-for-anthropic/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Anthropic Claude AI provider integration for WordPress Core AI.
 - **[ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Local LLM inference provider for WordPress AI workflows.
 - **[mcp-adapter](https://github.com/WordPress/mcp-adapter/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Model Context Protocol (MCP) server adapter for WordPress AI agents.
 - **[site-kit-wp](https://github.com/google/site-kit-wp/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Google's official WordPress plugin for Analytics and Search Console.
 - **[ElasticPress](https://github.com/10up/ElasticPress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Enterprise Elasticsearch and OpenSearch integration for WordPress.
 - **[distributor](https://github.com/10up/distributor/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Cross-site content syndication and multisite publishing engine.
 - **[safe-redirect-manager](https://github.com/10up/safe-redirect-manager/issues?q=author%3Anoruzzamans)** -- Safe HTTP redirection manager for WordPress.
+- **[classifai](https://github.com/10up/classifai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Enterprise AI content classification and media processing for WordPress.
 - **[S3-Uploads](https://github.com/humanmade/S3-Uploads/pulls?q=is%3Apr+author%3Anoruzzamans)** -- AWS S3 object storage stream wrapper for WordPress.
 - **[wp-graphql](https://github.com/wp-graphql/wp-graphql/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Extendable GraphQL API for WordPress.
 - **[faustjs](https://github.com/wpengine/faustjs/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Headless WordPress framework for Next.js.
