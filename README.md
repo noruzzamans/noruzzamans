@@ -5,6 +5,7 @@
 [![WordPress Core](https://img.shields.io/badge/WordPress_7.2-Release_Squad_(Test_Lead)-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://make.wordpress.org/core/tag/7-2/)
 [![Yoast Care Fund](https://img.shields.io/badge/Yoast_Care_Fund-Recipient-A4286A?style=for-the-badge&logo=yoast&logoColor=white)](https://yoast.com/community/care-fund/recipients/md-noruzzaman/)
 [![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-59+_Trac_Changesets-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/noruzzaman/)
+[![Website](https://img.shields.io/badge/Portfolio-noruzzaman.com-2a9d8f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noruzzaman.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noruzzaman/)
 
 ---
@@ -17,6 +18,7 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 - 🎖️ **Noteworthy Contributor to WordPress 7.0** with **59+ SVN changeset revisions** merged into WordPress Core trunk.
 - 🏅 **Yoast Care Fund Recipient** for sustained open-source contributions across the global WordPress ecosystem.
 - 🌐 **Enterprise Open-Source Contributor** across **Automattic** (WooCommerce, Jetpack, Action Scheduler), **Google Site Kit**, **10up** (ElasticPress), **Human Made** (S3-Uploads), and **WP Engine** (WPGraphQL, Faust.js).
+- 🚀 **Official Engineering Hub & Portfolio:** [noruzzaman.com](https://noruzzaman.com/) — Verified Open-Source Directory (95+ PRs & SVN changesets).
 
 ---
 
