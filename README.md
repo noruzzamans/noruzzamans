@@ -20,7 +20,7 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 
 ---
 
-## Contributions (35 Repositories)
+## Contributions (36 Repositories)
 
 - **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development codebase.
 - **[sqlite-database-integration](https://github.com/WordPress/sqlite-database-integration/pulls?q=is%3Apr+author%3Anoruzzamans)** -- SQLite database driver and emulation layer for WordPress.
@@ -57,3 +57,4 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 - **[stream](https://github.com/xwp/stream/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Enterprise audit logging and activity tracking plugin.
 - **[wordpress-seo](https://github.com/Yoast/wordpress-seo/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Yoast SEO for WordPress.
 - **[mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Mailchimp newsletter signup integration for WordPress.
+- **[lifterlms](https://github.com/gocodebox/lifterlms/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Learning management system (LMS) and course builder for WordPress.
