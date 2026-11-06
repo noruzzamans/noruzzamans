@@ -16,11 +16,11 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 - 🏛️ **Official Test Lead for the WordPress 7.2 Release Squad** (the final major WordPress release of 2026).
 - 🎖️ **Noteworthy Contributor to WordPress 7.0 & 7.2** with **60+ SVN changeset revisions** merged into WordPress Core trunk.
 - 🏅 **Yoast Care Fund Recipient** for sustained open-source contributions across the global WordPress ecosystem.
-- 🌐 **Enterprise Open-Source Contributor** across **Automattic** (WooCommerce, Jetpack, Action Scheduler), **Google Site Kit**, **10up** (ElasticPress), **Human Made** (S3-Uploads), and **WP Engine** (WPGraphQL, Faust.js).
+- 🌐 **Enterprise Open-Source Contributor** across **Automattic** (WooCommerce, Jetpack, Action Scheduler, ActivityPub), **Google Site Kit**, **10up** (ElasticPress), **Human Made** (S3-Uploads), and **WP Engine** (WPGraphQL, Faust.js).
 
 ---
 
-## Contributions (37 Repositories)
+## Contributions (38 Repositories)
 
 - **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development codebase.
 - **[sqlite-database-integration](https://github.com/WordPress/sqlite-database-integration/pulls?q=is%3Apr+author%3Anoruzzamans)** -- SQLite database driver and emulation layer for WordPress.
@@ -44,6 +44,7 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 - **[action-scheduler](https://github.com/woocommerce/action-scheduler/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Scalable background job processing queue for WordPress.
 - **[wp-calypso](https://github.com/Automattic/wp-calypso/pulls?q=is%3Apr+author%3Anoruzzamans)** -- TypeScript single-page application powering WordPress.com.
 - **[co-authors-plus](https://github.com/Automattic/co-authors-plus/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Multiple bylines and guest author management for WordPress.
+- **[wordpress-activitypub](https://github.com/Automattic/wordpress-activitypub/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Fediverse and ActivityPub protocol integration for WordPress.
 - **[ai-provider-for-ollama](https://github.com/Fueled/ai-provider-for-ollama/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Local LLM inference provider for WordPress AI workflows.
 - **[classifai](https://github.com/10up/classifai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Enterprise AI content classification and media processing for WordPress.
 - **[site-kit-wp](https://github.com/google/site-kit-wp/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Google's official WordPress plugin for Analytics and Search Console.
