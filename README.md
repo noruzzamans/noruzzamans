@@ -20,7 +20,7 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 
 ---
 
-## Contributions (38 Repositories)
+## Contributions (40 Repositories)
 
 - **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development codebase.
 - **[sqlite-database-integration](https://github.com/WordPress/sqlite-database-integration/pulls?q=is%3Apr+author%3Anoruzzamans)** -- SQLite database driver and emulation layer for WordPress.
@@ -60,3 +60,5 @@ I am a Senior Systems and Core Software Engineer specializing in **high-reliabil
 - **[mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Mailchimp newsletter signup integration for WordPress.
 - **[lifterlms](https://github.com/gocodebox/lifterlms/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Learning management system (LMS) and course builder for WordPress.
 - **[paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Complete member management and recurring membership subscriptions plugin for WordPress.
+- **[ultimatemember](https://github.com/ultimatemember/ultimatemember/pulls?q=is%3Apr+author%3Anoruzzamans)** -- User profile, registration, and membership plugin for WordPress.
+- **[fluent-smtp](https://github.com/WPManageNinja/fluent-smtp/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Ultimate SMTP and email delivery plugin for WordPress.
