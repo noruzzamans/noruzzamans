@@ -4,7 +4,8 @@
 
 [![WordPress Core](https://img.shields.io/badge/WordPress_7.2-Release_Squad_(Test_Lead)-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://make.wordpress.org/core/tag/7-2/)
 [![Yoast Care Fund](https://img.shields.io/badge/Yoast_Care_Fund-Recipient-A4286A?style=for-the-badge&logo=yoast&logoColor=white)](https://yoast.com/community/care-fund/recipients/md-noruzzaman/)
-[![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-60+_Trac_Changesets-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/noruzzaman/)
+[![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-Core_Contributor_(WP_6.6--7.2)-0073AA?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/noruzzaman/)
+[![Five for the Future](https://img.shields.io/badge/Five_for_the_Future-Sponsorship_Open-2271B1?style=for-the-badge&logo=wordpress&logoColor=white)](#-five-for-the-future-5ftf-corporate-sponsorship)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noruzzaman/)
 
 ---
@@ -14,9 +15,22 @@
 I am a Senior Systems and Core Software Engineer specializing in **high-reliability WordPress architecture, modern PHP/JavaScript, and distributed systems**. 
 
 - 🏛️ **Official Test Lead for the WordPress 7.2 Release Squad** (the final major WordPress release of 2026).
-- 🎖️ **Noteworthy Contributor to WordPress 7.0 & 7.2** with **60+ SVN changeset revisions** merged into WordPress Core trunk.
+- 🎖️ **Noteworthy Contributor to WordPress 7.0 & 7.2** with ongoing SVN changeset revisions merged into WordPress Core trunk across major releases (WP 6.6 through 7.2).
 - 🏅 **Yoast Care Fund Recipient** for sustained open-source contributions across the global WordPress ecosystem.
 - 🌐 **Enterprise Open-Source Contributor** across **Automattic** (WooCommerce, Jetpack, Action Scheduler, ActivityPub), **Google Site Kit**, **10up** (ElasticPress), **Human Made** (S3-Uploads), and **WP Engine** (WPGraphQL, Faust.js).
+
+---
+
+## 🤝 Five for the Future (5ftF) Corporate Sponsorship
+
+I am actively available for institutional **Five for the Future (5ftF) corporate sponsorships and engineering retainers** (10 to 20 hours/week). 
+
+WordPress VIP hosting providers, enterprise agencies, and product businesses can fulfill their official Five for the Future pledge by sponsoring my ongoing, verified core engineering work:
+- **Core Architecture & Gutenberg:** Authoring defensive runtime compatibility guards, triaging tickets, and modernizing automated test suites.
+- **Release Squad Leadership:** Guiding major WordPress core release cycles (such as serving as Test Lead for WordPress 7.2).
+- **Corporate Sponsor Attribution:** Public acknowledgement and company credit on WordPress Core releases, Trac changesets, and WordCamp sessions.
+
+📫 **Sponsorship & Retainer Inquiries:** [noruzzamanrubel@gmail.com](mailto:noruzzamanrubel@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/noruzzaman/)
 
 ---
 
