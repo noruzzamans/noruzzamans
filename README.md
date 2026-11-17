@@ -34,9 +34,10 @@ WordPress VIP hosting providers, enterprise agencies, and product businesses can
 
 ---
 
-## Contributions (40 Repositories)
+## Contributions (41 Repositories)
 
 - **[wordpress-develop](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress Core development codebase.
+- **[smtp](https://github.com/WordPress/smtp/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Official minimal, community-maintained WordPress SMTP and email delivery plugin.
 - **[gutenberg](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Anoruzzamans)** -- WordPress block editor and full-site editing platform.
 - **[sqlite-database-integration](https://github.com/WordPress/sqlite-database-integration/pulls?q=is%3Apr+author%3Anoruzzamans)** -- SQLite database driver and emulation layer for WordPress.
 - **[ai](https://github.com/WordPress/ai/pulls?q=is%3Apr+author%3Anoruzzamans)** -- Official WordPress AI platform and LLM integration framework.
